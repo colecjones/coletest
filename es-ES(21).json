@@ -1,0 +1,1013 @@
+{
+
+  "LCL_SUP-1151-46059-16.comment": "Starlink Business delivers higher throughput allocation to serve businesses globally. Business customers can order as many Starlinks as needed, manage all service locations from a single account dashboard, and access 24/7 priority customer support.\n\nStarlink Business users can expect download speeds of up to 220 Mbps and latency as low as 20 ms in most locations.\n\nWith Starlink, there are no contracts and no exclusivity requirements, providing the flexibility to build the right network for your business. Please visit the Starlink Business landing page [here](https://www.starlink.com/business) to get started.\n\nFor an account management fee, enterprises ordering large quantities can receive additional support from the Starlink team to place orders, activate service, manage subscription features, and assist with other unique requests.\n\n",
+  "LCL_SUP-1151-46059-16.existing": "Starlink Business ofrece una mayor asignación de rendimiento para atender a empresas de todo el mundo. Los clientes comerciales pueden solicitar todos los Starlinks que necesite, gestionar todas sus ubicaciones de servicio desde una sola cuenta y acceder a un servicio de atención al cliente prioritario las 24 horas del día, los 7 días de la semana.\n\nLos usuarios de Starlink empresarial pueden esperar velocidades de descarga de entre 350 Mbps, y una latencia baja de tan solo 20 ms en la mayoría de las ubicaciones.\n\nCon Starlink, no hay contratos, ni requisitos de exclusividad, lo que proporciona la flexibilidad necesaria para crear la red adecuada para su empresa. Visite la página de inicio de [Starlink Business](https://www.starlink.com/business) para comenzar a obtener el servicio.\n\nPor una tarifa de gestión de cuentas, las empresas que soliciten cantidades importantes pueden recibir asistencia adicional del equipo de Starlink para hacer pedidos, activar el servicio, administrar las características de subscripción y ayudar con otras solicitudes únicas.\n\n",
+  "LCL_SUP-1151-46059-16": "",
+
+  "LCL_SUP-1155-48112-12.comment": "We do not support filling out additional vendor and supplier documentation at this time. If you require vendor onboarding documents before ordering Starlink, please request a sales consultation [here](https://starlink.typeform.com/to/mLiTd6pK). If you have a Starlink account, submit a support ticket to request documents.",
+  "LCL_SUP-1155-48112-12.existing": "No, no ofrecemos asistencia para completar la documentación adicional de proveedores y vendedores en este momento.",
+  "LCL_SUP-1155-48112-12": "",
+
+  "LCL_SUP-1208-85173-19.comment": "Can I add additional Starlinks to my account?",
+  "LCL_SUP-1208-85173-19.existing": "¿Puedo agregar ubicaciones adicionales a mi cuenta?",
+  "LCL_SUP-1208-85173-19": "",
+
+  "LCL_PRD-1520-22928-97.comment": "Residential + Portability",
+  "LCL_PRD-1520-22928-97.existing": "¡Habilitar servicio en todas partes!",
+  "LCL_PRD-1520-22928-97": "",
+
+  "LCL_SUP-1040-74439-16.comment": "**Note: We are currently experiencing a surge in demand for Starlink. Deliveries may take 2-4 weeks, however certain countries (i.e. Brazil, Philippines) may experience longer delivery timelines.  We will continue working to get your order shipped out as soon as possible. Please continue to watch your order summary for status. Thank you for your patience and for your support!**\n\nIf your order is in Preparing Shipment status this means we have received your order and are preparing it for packing and shipment. You can check when your order is estimated to ship by logging into your [Starlink Account](https://www.starlink.com/account/home) and selecting the order. \n\nItems ship out as soon as they are ready so you can expect each item to ship separately. If you have multiple items in your order, one item will not delay the others. \n\nOnce an item in your order ships, you will receive an email that includes a Tracking Number and the status will update to Shipped. You can then check delivery status using FedEx and DHL websites. At this time, no expedited shipment options are available.\n\n[When can I expect my order to ship?](https://support.starlink.com/?topic=fee97ae9-fa93-82a5-c385-aaf2426938ae)\n\n[When will I receive my Starlink?](https://support.starlink.com/?topic=f2902e96-bb7e-3eca-2876-3121bda53096)",
+  "LCL_SUP-1040-74439-16.existing": "**Nota: actualmente estamos experimentando un aumento en la demanda de Starlink, por lo que las entregas tienen una demora de 2 a 4 semanas. Seguiremos trabajando para que su pedido se envíe lo antes posible. Continúe viendo su resumen del pedido para conocer el estado. ¡Gracias por su paciencia y por su apoyo!**\n\nSi su pedido se encuentra en estado Preparando envío, significa que hemos recibido su pedido y lo estamos preparando para su embalaje y envío. Puede verificar cuándo se estima que se enviará su pedido iniciando sesión en su [cuenta de Starlink](https://www.starlink.com/account/home) y seleccionando el pedido. \n\nLos artículos se envían tan pronto como estén listos, de modo que, por lo general, se envían por separado. Si su pedido incluye varios artículos, ninguno de ellos retrasará el envío de los demás. \n\nUna vez que se envíe su pedido, recibirá un correo electrónico que incluye un número de seguimiento y el estado se actualizará a Enviado. Puede verificar entonces el estado de la entrega utilizando los sitios web de FedEx y DHL. En este momento, no hay opciones de envío acelerado disponibles.\n\n[¿Cuándo se despachará mi pedido?](https://support.starlink.com/?topic=fee97ae9-fa93-82a5-c385-aaf2426938ae)\n\n[¿Cuándo recibiré el Starlink?](https://support.starlink.com/?topic=f2902e96-bb7e-3eca-2876-3121bda53096)",
+  "LCL_SUP-1040-74439-16": "",
+
+  "LCL_SUP-1269-41009-16.comment": "Are there RV mount options?",
+  "LCL_SUP-1269-41009-16.existing": "¿Hay opciones de montaje para vehículos recreativos?",
+  "LCL_SUP-1269-41009-16": "",
+
+  "LCL_SUP-1253-21145-8.comment": "By logging into your Starlink Account, you are able to switch from Starlink Residential to Starlink Roam!\n\n1. Log into Starlink account at [Starlink.com](https://www.starlink.com/account/home).\n2. Under the section 'Your Starlinks', click 'Manage' next to the Starlink you would like to change the subscription type.\n3. Select the Pencil Icon next to the \"Service Type\" line \n4. Change subscription and accept the terms. \n5. Select \"Change to Roam\"\n\nPlease note, that we cannot offer customers the ability to change from Roam  back to Residential at this time. You are welcome to explore our Portability offering if you'd like to switch between a designated service address and travel use. \n\nNote: Portability is not available for Residential service in the US.\n\n**Related questions**:\n\n[Can I add additional Starlinks to my account?](https://support.starlink.com/?topic=90bab5a0-7269-f17e-d9d2-81d70843141e)",
+  "LCL_SUP-1253-21145-8.existing": "Puede cambiar del servicio Starlink residencial al servicio Starlink Roam iniciando sesión en su cuenta de Starlink.\n\n1. Inicie sesión en la cuenta de Starlink en [Starlink.com](https://www.starlink.com/account/home).\n2. En la sección “Sus Starlinks”, haga clic en “Administrar” al lado del Starlink para el que desea cambiar el tipo de suscripción.\n3. Seleccione el icono de lápiz junto a la línea “Tipo de servicio” \n4. Cambie la suscripción y acepte los términos. \n5. Seleccione “Cambiar a Itinerante”\n\nTenga en cuenta que no podemos ofrecer a los clientes la posibilidad de cambiar de itinerante a residencial en este momento. Le invitamos a explorar nuestra oferta de servicios de portabilidad si desea cambiar entre una dirección de servicio designada y el uso en viajes. \n\nNota: La portabilidad no está disponible para el servicio residencial en EE. UU.\n\n**Preguntas relacionadas**:\n\n[¿Puedo agregar ubicaciones adicionales o Starlinks a mi cuenta?](https://support.starlink.com/?topic=90bab5a0-7269-f17e-d9d2-81d70843141e)",
+  "LCL_SUP-1253-21145-8": "",
+
+  "LCL_INVT_PREMIUMPREORDER_TOP.comment": "Starlink is at capacity in your area and expects to expand service in your area in 2023. Order now to reserve Starlink Business. You will receive a notification once your Starlink is ready to ship.",
+  "LCL_INVT_PREMIUMPREORDER_TOP.existing": "Realice el pedido ahora para reservar su Starlink Business. Recibirá una notificación cuando su Starlink esté listo para enviarse.",
+  "LCL_INVT_PREMIUMPREORDER_TOP": "",
+
+  "LCL_SUP-1282-91563-21.comment": "If you are back online, you may be experiencing intermittent connection (frequent drops in service). Click [here](https://support.starlink.com/?topic=6723aa37-4414-3bd9-31e8-d2e8334b8ebc) for additional guidance.\n\nIf you are setting up for the first time, please see [How do I set up Starlink?](https://support.starlink.com/?topic=cd99e833-2adc-1cb2-01c3-7f1fbefa3784).\n\nIf you were online before, then suddenly fell offline and are unable to regain connection, this means that there is no data connection between the router and the Starlink. A Starlink app banner may appear saying \"Offline — Starlink Disconnected\". This is most commonly caused by a damaged cable or connector:\n\n* Check the length of the cable for any damage.\n* Carefully inspect the cable connectors on both ends for any debris, signs of water ingression possibly resulting in short circuits, or visible physical damage. If needed, a replacement cable can be purchased in the [Starlink Shop](https://shop.starlink.com).\n* Unplug and reseat all cables. Ensure they are fully seated.\n\n\nIf your issue is still not resolved: Click the thumbs down icon to submit a support ticket with clear photo attachments of your Starlink dish installation, cable routing, router placement, and any other photos you feel may be helpful to resolve your issue.\n",
+  "LCL_SUP-1282-91563-21.existing": "Si vuelve a estar en línea, es posible que experimente una conexión intermitente (caídas frecuentes en el servicio). Haga clic [aquí](https://support.starlink.com/?topic=6723aa37-4414-3bd9-31e8-d2e8334b8ebc) para obtener orientación adicional.\n\nSi está configurando por primera vez, consulte [¿Cómo configuro Starlink?](https://support.starlink.com/?topic=cd99e833-2adc-1cb2-01c3-7f1fbefa3784).\n\nSi antes estaba en línea, pero de repente se desconecta y no se puede recuperar la conexión, significa que no hay conexión de datos entre el enrutador y el Starlink. Puede aparecer un aviso en la aplicación Starlink que diga “Fuera de línea: Starlink desconectado”. Esto comúnmente se debe a un cable o conector dañado:\n\n* Revise todo el cable para detectar daños.\n* Inspeccione cuidadosamente los conectores del cable en ambos extremos para detectar cualquier residuo, signos de entrada de agua que puedan provocar cortocircuitos o daños físicos visibles. Si es necesario, puede comprar un cable de reemplazo en la [tienda de Starlink](https://shop.starlink.com).\n* Desenchufe y rectifique todos los cables. Asegúrese de que estén completamente rectificados.\n",
+  "LCL_SUP-1282-91563-21": "",
+
+  "LCL_SUP-1157-42809-21.comment": "Starlink provides two IP policies, \"default\" and \"public\". The default IP configuration is Carrier Grade Network Address Translation (CGNAT) using private address space assigned to Starlink clients with DHCP from the 10.64.0.0/10 network. Network Address Translation (NAT) translates between Starlink private and public IPs. \n\nThe Starlink public IP policy is an optional configuration available to Business and Maritime customers. A public IP is reachable from any device on the internet and is assigned to Starlink network clients using DHCP. Moving the Starlink to another location may cause the public IP to change. Starlink does not currently offer the ability for Residential or Roam customers to receive a public IP. The public IP option can be enabled from the account dashboard. See instructions [here](https://support.starlink.com/?topic=13f0056c-6f6d-5a55-623c-fe94ad9947c5).\n\nEach Starlink is allocated one IPv4 address and delegated a /56 IPv6 prefix for network clients.\nAll Starlink network clients are assigned an IPv6 address if the router is IPv6 is capable. IPv6 is not supported on the early generation router in the Circular Starlink Kit.\n\nThe default IP policy using CGNAT blocks all inbound ports. Customers requiring inbound ports should consider products with a public IP option. The following outbound ports are blocked for all customers per information security best practices: TCP/25 (SMTP) and TCP/445 (SMB).\n\nAs Starlink continues to expand and upgrade our global internet service infrastructure and rollout new capabilities, some users may see different IP address behavior (for example, publicly routable addresses, IPv6, non-CGNAT).\n\n\nRelated questions:\n\n[How do I set my IP address to Public?](https://support.starlink.com/?topic=13f0056c-6f6d-5a55-623c-fe94ad9947c5)\n\n",
+  "LCL_SUP-1157-42809-21.existing": "Actualmente, Starlink proporciona una dirección IPv4 privada NAT a gran escala (Carrier Grade NAT, CGNAT) emitida por DHCP en el rango 100.64.0.0/10, mientras que Starlink Business proporciona una dirección IPv4 pública emitida por DHCP. En ambos casos, solo se proporciona una dirección IPv4 única.\n\nTodas las direcciones IP emitidas por DHCP de Starlink se configuran con un arrendamiento de 5 minutos. Mover el Starlink a otra ubicación puede hacer que la IP pública cambie.\n\nNota: A medida que Starlink continúa expandiendo y actualizando nuestra infraestructura global de servicios de Internet, y desplegando nuevas capacidades, algunos usuarios pueden ver un comportamiento diferente de la dirección IP (por ejemplo, direcciones enrutables públicamente, IPv6, no CGNAT).\n\nPreguntas relacionadas:\n\n[¿Cómo puedo establecer mi dirección IP en Pública?](https://support.starlink.com/?topic=13f0056c-6f6d-5a55-623c-fe94ad9947c5)\n\n[¿Cómo puedo obtener direcciones IP adicionales?](https://support.starlink.com/?topic=13f0056c-6f6d-5a55-623c-fe94ad9947c5)",
+  "LCL_SUP-1157-42809-21": "",
+
+  "LCL_PRD-1549-44190-3.comment": "Starlink Maritime Subscription - 5TB",
+  "LCL_PRD-1549-44190-3.existing": "Suscripción a Starlink Maritime",
+  "LCL_PRD-1549-44190-3": "",
+
+  "LCL_INVT_PREORDER_TOP.comment": "Starlink is at capacity in your area and expects to expand service in your area in 2023. Order now to reserve your Starlink. You will receive a notification once your Starlink is ready to ship.",
+  "LCL_INVT_PREORDER_TOP.existing": "Realice el pedido ahora para reservar su Starlink. Starlink espera ampliar el servicio en su zona en 2023 Recibirá una notificación una vez que su Starlink esté listo para enviarse.",
+  "LCL_INVT_PREORDER_TOP": "",
+
+  "LCL_INVT_SIGNUP_TOP.comment": "<h2 class=\"fddbold16\">Starlink is currently available in your area!</h2><p>Customers in your region typically see download speeds around 100 Mbps. No contracts, 30-day trial.</br>Shipping times are currently estimated to be 1-2 weeks.</p>",
+  "LCL_INVT_SIGNUP_TOP.existing": "<h2 class=\"fddbold16\">Starlink está actualmente disponible en su área.</h2><p>Los clientes de su región suelen tener velocidades de descarga de entre 50 y 200 Mbps. Prueba de 30 días sin contratos.</br>Los tiempos de envío se calculan actualmente en 1 a 2 semanas.</p>",
+  "LCL_INVT_SIGNUP_TOP": "",
+
+  "LCL_SUP-1296-79947-38.comment": "Starlink Maritime is available for use in waters around the globe. Coverage in local territorial waters, including inland waters, is contingent on government approval. Starlink Maritime is available for order in the following countries:\n\n* United States\n* Canada\n* Australia\n* New Zealand\n* United Kingdom\n* Germany\n* Italy\n* Chile\n* Poland\n* Switzerland\n* Austria\n* Belgium",
+  "LCL_SUP-1296-79947-38.existing": "Starlink Maritime está disponible para su uso en aguas de todo el mundo. La cobertura en Aguas Territoriales locales depende de la aprobación del gobierno. Starlink Maritime está disponible para pedidos en los siguientes países:\n* Estados Unidos \n* Australia \n* Nueva Zelanda \n* Reino Unido \n* Alemania \n* Italia \n* Chile \n* Polonia \n* Suiza \n* Austria \n* Bélgica  ",
+  "LCL_SUP-1296-79947-38": "",
+
+  "LCL_SUP-1311-19298-19.comment": "Can I change my current subscription to Starlink for Maritime?",
+  "LCL_SUP-1311-19298-19.existing": "¿Puedo cambiar mi Starlink actual a Starlink para plataformas marítimas?",
+  "LCL_SUP-1311-19298-19": "",
+
+  "LCL_SUP-1312-94898-29.comment": "Changing your subscription type to Starlink Maritime is not supported. If you are interested in an additional Starlink subscription, you are able to purchase another Starlink through your account's home page or by placing an order on starlink.com.\n\n\n\nRelated questions:\n\n[Can I add additional Starlinks to my account?](https://support.starlink.com/?topic=90bab5a0-7269-f17e-d9d2-81d70843141e)",
+  "LCL_SUP-1312-94898-29.existing": "No se admite el cambio de Starlink a Starlink Maritime o de Starlink Maritime a Starlink. Si está interesado en un Starlink o Starlink Maritime adicional, puede comprar otro Starlink a través de la página de inicio de su cuenta o realizando un pedido en starlink.com.\n\n\n\nPreguntas relacionadas:\n\n[¿Puedo agregar ubicaciones adicionales a mi cuenta?](https://support.starlink.com/?topic=90bab5a0-7269-f17e-d9d2-81d70843141e)",
+  "LCL_SUP-1312-94898-29": "",
+
+  "LCL_SUP-1314-61747-18.comment": "The Starlink dish and power supply are water jet and dust resistant. The dish and power supply have a rating of IP56.\n\nThe Starlink WiFi router is designed for indoor use. It is dust and splash resistant with a rating of IP54.\n\n**IEC 60529 - Degrees of protection provided by enclosures (IP Code)**\n\n| Code| Level | Meaning| \n| -------- | --------| -------- | \n| First Digit - Solid Particles |\t5\t| IP5X - Dust-protected. Ingress of dust is not entirely prevented, but it must not enter in sufficient quantity to interfere with the safe operation of the equipment. |\n| Second Digit - Liquids | 4 |  IPX4 - Splashing of water. Water splashing against the enclosure from any direction shall have no harmful effect. | \n| Second Digit - Liquids |  6  | IPX6 - Powerful water jets. Water projected in powerful jets against the enclosure from any direction shall have no harmful effects. |\n\n\n\n",
+  "LCL_SUP-1314-61747-18.existing": "La antena parabólica Starlink y la fuente de alimentación son resistentes a chorros de agua y al polvo. La antena parabólica y la fuente de alimentación tienen una clasificación IP56.\n\nEl enrutador Wi-Fi de Starlink está diseñado para uso en interiores. Es resistente al polvo y a las salpicaduras con una clasificación IP54.\n\n**IEC 60529 - Grados de protección proporcionados por gabinetes (código IP)**\n\n| Código| Nivel | Significado| \n| -------- | :--------: | -------- | \n| Primer dígito: partículas sólidas |\t5\t| IP5X: protección contra el polvo. La entrada de polvo no se evita por completo, pero no debe entrar en cantidad suficiente como para interferir con el funcionamiento seguro del equipo. |\n| Segundo dígito: líquidos | 4 |  IPX4: salpicadura de agua. Las salpicaduras de agua contra el gabinete desde cualquier dirección no tendrán ningún efecto perjudicial. | \n| Segundo dígito: líquidos |  6  | IPX6: potentes chorros de agua. El agua proyectada en forma de chorros potentes contra el gabinete desde cualquier dirección no tendrá efectos nocivos. |",
+  "LCL_SUP-1314-61747-18": "",
+
+  "LCL_INVT-1017-24666-90.comment": "",
+  "LCL_INVT-1017-24666-90.existing": "Por tiempo limitado en Alemania, pruebe Starlink durante 30 días por solo 1 € por adelantado. El saldo restante de 459 € se cargará automáticamente 30 días después de la recepción, a menos que cancele el servicio e inicie la devolución de un kit en buen estado.",
+  "LCL_INVT-1017-24666-90": "",
+
+  "LCL_SUP-1294-48501-18.comment": "Starlink Maritime delivers high-speed, low-latency internet with up to 220 Mbps download while at sea. From merchant vessels to oil rigs to premium yachts, Starlink Maritime allows you to connect from some of the most remote waters across the world, just like you would in the office or at home.\n\n* Coverage: Global\n* Hardware: Flat High Performance Starlink\n* Fleet Management: Remotely monitor and manage your Starlink fleet from a single portal.\n* Pause: Pause and un-pause service at any time\n\nAdditional specifications about Starlink Maritime can be found [here](https://www.starlink.com/legal/documents/DOC-1002-69942-69?regionCode=US).\n\nRelated questions:\n\n[Where is Starlink Maritime available?](https://support.starlink.com/?topic=9eb841b3-2e43-a6fb-ecc7-ea58fb5600b5)\n\n[Is the Starlink kit waterproof?](https://support.starlink.com/?topic=)\n\n[What are the limitations of Starlink Maritime?](https://support.starlink.com/?topic=106e5aaa-79fc-7d1e-7c4a-53d2d1afc06e)",
+  "LCL_SUP-1294-48501-18.existing": "Starlink Maritime ofrece internet de alta velocidad y baja latencia con una velocidad de descarga de hasta 350 Mbps mientras está en alta mar. Desde buques mercantes hasta plataformas petrolíferas y yates de categoría, Starlink Maritime le permite conectarse desde algunas de las aguas más remotas del mundo, como lo haría en la oficina o en su casa.\n\n* Cobertura: global\n* Equipo: aproveche 2 Starlinks planos de alto rendimiento\n* Gestión de flota: monitoree y gestione remotamente su flota Starlink desde un único portal.\n* Pausa: puede pausar y reanudar el servicio en cualquier momento\n\nPuede encontrar especificaciones adicionales sobre Starlink Maritime [aquí](https://www.starlink.com/legal/documents/DOC-1002-69942-69?regionCode=US).\n\nPreguntas relacionadas:\n\n[¿Qué equipo viene con mi pedido de Starlink Maritime?](https://support.starlink.com/?topic=bdb16704-8607-87fc-adc4-b64420a16e2f)\n\n[¿Dónde está disponible Starlink Maritime?](https://support.starlink.com/?topic=9eb841b3-2e43-a6fb-ecc7-ea58fb5600b5)\n\n[¿El kit Starlink es impermeable?](https://support.starlink.com/?topic=)\n\n[¿Cuáles son las limitaciones de Starlink Maritime?](https://support.starlink.com/?topic=106e5aaa-79fc-7d1e-7c4a-53d2d1afc06e)",
+  "LCL_SUP-1294-48501-18": "",
+
+  "LCL_CPDM-9539-24314-68.comment": "",
+  "LCL_CPDM-9539-24314-68.existing": "Móvil premium",
+  "LCL_CPDM-9539-24314-68": "",
+
+  "LCL_INVT_NZ_SIGNUP_TOP.comment": "</br> Starlink is now offering hardware rentals throughout New Zealand. \t\t<Details><summary><u>Learn More About Starlink Rentals</u></summary><ul> \t\t<li> Rent Starlink hardware for a one-time $39 activation and $29/mo or purchase for $729. Starlink service is $159/mo.</li> \t\t<li> Try Starlink for 30 days and if not satisfied, return the hardware for a full refund of your $39 activation, or $729 if purchased. </li> \t\t<li> There are no long-term contracts, both hardware rental and Starlink service are charged month-to-month.</li> \t\t<li> Rental customers cannot transfer their hardware to a different Starlink account.</li> \t\t<li> You may cancel your Starlink service at any time. If cancelled, your service will remain active until the end of the payment period. If you have rented a Starlink Kit, you must return your equipment in good condition within 30 days of service cancellation or you will be charged the full price of the kit.</li> \t\t<li>To learn more about Starlink rentals, <a href=\"https://support.starlink.com/?topic=ea2cca85-c95d-595b-06e6-4882ebe915df\"target=\\\"_blank\\\"> Read our FAQ page</a></li> \t\t</br>",
+  "LCL_INVT_NZ_SIGNUP_TOP.existing": "Starlink está actualmente disponible en su área. Los clientes de Starlink en su región han visto velocidades de descarga promedio de 189 Mbps en los últimos 7 días. La disponibilidad es limitada, así que realice su pedido ahora y conéctese en 1 a 2 semanas",
+  "LCL_INVT_NZ_SIGNUP_TOP": "",
+
+  "LCL_INVT_AU_SIGNUP_TOP.comment": "<h2 class=\"fddbold16\">Starlink is currently available in your area!</h2><p>Customers in your region typically see download speeds around 100 Mbps. No contracts, 30-day trial.</br>Shipping times are currently estimated to be 1-2 weeks.</br>Ordering as a business? Get faster speeds, priority support, and more with <ahref=\"https://starlink.com/business\"target=\"_blank\"rel=\"noopener noreferrer\">Starlink Business</a></p>.",
+  "LCL_INVT_AU_SIGNUP_TOP.existing": "Starlink está disponible en su área. La disponibilidad es limitada, por lo que el pedido ahora y las entregas normalmente se esperan en el plazo de una semana. Envío gratuito por tiempo limitado.",
+  "LCL_INVT_AU_SIGNUP_TOP": "",
+
+  "LCL_INVT-1296-98639-10.comment": "",
+  "LCL_INVT-1296-98639-10.existing": "El servicio para este pedido solo está garantizado en esta ubicación.",
+  "LCL_INVT-1296-98639-10": "",
+
+  "LCL_INVT_SIGNUP_TOP_NL.comment": "Starlink is now offering hardware rentals throughout the Netherlands. \t<Details><summary><u>Learn More About Starlink Rentals</u></summary><ul> \t<li> Rent Starlink hardware for a one-time € 50 activation and € 15/mo or purchase for <span class=\"g-strikethrough\">450 €</span> 300 €. Starlink service is € 85/mo.</li> \t<li> Try Starlink for 30 days and if not satisfied, return the hardware for a full refund of your € 50 activation, or <span class=\"g-strikethrough\">450 €</span> 300 € if purchased. </li> \t<li> There are no long-term contracts, both hardware rental and Starlink service are charged month-to-month.</li> \t<li>Rental customers cannot transfer their hardware to a different Starlink account.</li> \t<li> You may cancel your Starlink service at any time. If cancelled, your service will remain active until the end of the payment period. If you have rented a Starlink Kit, you must return your equipment in good condition within 30 days of service cancellation or you will be charged the full price of the kit.</li> <li>To learn more about Starlink rentals, <a href=\"https://support.starlink.com/?topic=ea2cca85-c95d-595b-06e6-4882ebe915df\"target=\\\"_blank\\\"> Read our FAQ page</a></li>",
+  "LCL_INVT_SIGNUP_TOP_NL": "",
+
+  "LCL_INVT_SIGNUP_TOP_CA.comment": "<h2 class=\"fddbold16\">Starlink is currently available in your area!</h2></br><h2 class=\"fddbold16\">Limited time offer<h2><span class=\"sub-banner g-white g-strikethrough\">$759</span><span class=\"sub-banner\"> $350 </span><span class=\"fddbold16\">FOR STANDARD HARDWARE</span></h2><p>No contracts, 30-day trial.<p>Shipping times are currently estimated to be 1-2 weeks.</p>",
+  "LCL_INVT_SIGNUP_TOP_CA.existing": "<h2 class=\"fddbold16\">Starlink está actualmente disponible en su área.</h2><p>Prueba de 30 días sin contratos.</br>Los tiempos de envío se calculan actualmente en 1 a 2 semanas.</p>",
+  "LCL_INVT_SIGNUP_TOP_CA": "",
+
+  "LCL_INVT_SIGNUP_TOP_PT.comment": "</p> <h2 class=\"banner\"> Aluguer do Hardware Agora Disponível</h2> \t</p> Alugue o hardware da Starlink por apenas 15 €/mês ou compre por <span class=\"g-strikethrough\">450 €</span> 300 €, serviço mensal de 65 €/mês. Internet de alta velocidade desde o espaço disponível em todo o Portugal.",
+  "LCL_INVT_SIGNUP_TOP_PT": "",
+
+  "LCL_INVT_SIGNUP_TOP_BR.comment": "Starlink is currently available in your area! <P> Customers in your region typically see download speeds around 100 Mbps. No contracts, 30-day trial. Availability is limited so order now and connect in 3-4 weeks.<p>If you encounter questions or issues while signing up for a new Starlink service, you may access <a href=\"https://wa.me/14253313125?text=Ol%C3%A1%21+Quero+saber+mais+da+Starlink.\" target=\"_blank\">support via WhatsApp</a></p>",
+  "LCL_INVT_SIGNUP_TOP_BR.existing": "<b>Internet de alta velocidad con datos ilimitados en cualquier destino de su país.</b> Servicio con pausa y sin pausa, facturado en incrementos de un mes. Para viajes internacionales dentro de su continente, favor de revisar dónde Starlink ofrece <a href=\"https://www.starlink.com/map?source=rv\"target=\"_blank\" rel=\"noopener noreferrer\">servicio activo</a>. Obtenga más información <a href=\"https://support.starlink.com/?topic=5731490a-56c5-c259-a3d6-13d0872bb398\"target=\\\"_blank\\\">aquí</a>.<P>Los pedidos actualmente se envían dentro 2 a 4 semanas de su orden.<p>Si tiene preguntas o problemas mientras se inscribe en un nuevo servicio Starlink, puede acceder al <a href=\"https://wa.me/14253313125?text=Ol%C3%A1%21+Quero+saber+mais+da+Starlink.\" target=\"_blank\">soporte a través de WhatsApp</a></p>",
+  "LCL_INVT_SIGNUP_TOP_BR": "",
+
+  "LCL_INVT_SIGNUP_TOP_GR.comment": "Starlink is now offering hardware rentals throughout Greece. \t<Details><summary><u>Learn More About Starlink Rentals</u></summary><ul> \t<li> Rent Starlink hardware for a one-time 50 € activation and 15 €/mo or purchase for <span class=\"g-strikethrough\">450 €</span> 300 €. Starlink service is 60 €/mo.</li> \t<li> Try Starlink for 30 days and if not satisfied, return the hardware for a full refund of your 50 € activation, or <span class=\"g-strikethrough\">450 €</span> 300 € if purchased. </li> \t<li> There are no long-term contracts, both hardware rental and Starlink service are charged month-to-month.</li> \t<li>Rental customers cannot transfer their hardware to a different Starlink account.</li> \t<li> You may cancel your Starlink service at any time. If cancelled, your service will remain active until the end of the payment period. If you have rented a Starlink Kit, you must return your equipment in good condition within 30 days of service cancellation or you will be charged the full price of the kit.</li> <li>To learn more about Starlink rentals, <a href=\"https://support.starlink.com/?topic=ea2cca85-c95d-595b-06e6-4882ebe915df\"target=\\\"_blank\\\"> Read our FAQ page</a></li>",
+  "LCL_INVT_SIGNUP_TOP_GR": "",
+
+  "LCL_CPDM-6679-81754-81.comment": "",
+  "LCL_CPDM-6679-81754-81.existing": "Kit HP",
+  "LCL_CPDM-6679-81754-81": "",
+
+  "LCL_INVT_SIGNUP_TOP_IE.comment": "Starlink is now offering hardware rentals throughout Ireland. \t\t<Details><summary><u>Learn More About Starlink Rentals</u></summary><ul> \t<li> Rent Starlink hardware for a one-time €50 activation and €15/mo or purchase for <span class=\"g-strikethrough\">€450</span> €300. Starlink service is €85/mo.</li> \t<li> Try Starlink for 30 days and if not satisfied, return the hardware for a full refund of your €50 activation, or <span class=\"g-strikethrough\">€450</span> €300 if purchased.</li> \t<li> There are no long-term contracts, both hardware rental and Starlink service are charged month-to-month.</li> \t<li> Rental customers cannot transfer their hardware to a different Starlink account.</li> \t<li> You may cancel your Starlink service at any time. If cancelled, your service will remain active until the end of the payment period. If you have rented a Starlink Kit, you must return your equipment in good condition within 30 days of service cancellation or you will be charged the full price of the kit.</li> \t\t<li>To learn more about Starlink rentals, <a href=\"https://support.starlink.com/?topic=ea2cca85-c95d-595b-06e6-4882ebe915df\"target=\\\"_blank\\\"> Read our FAQ page</a></li> ",
+  "LCL_INVT_SIGNUP_TOP_IE.existing": "Starlink está disponible actualmente. Realice su pedido ahora para conectarse en 1 a 2 semanas. Los clientes de Starlink en su región han visto velocidades de descarga promedio de 197 Mbps en los últimos 7 días. ",
+  "LCL_INVT_SIGNUP_TOP_IE": "",
+
+  "LCL_SUP-1358-27047-21.comment": "Business accounts can manually update their IP address to a Public IP by following the steps below:\n\n1. Login to your account www.starlink.com/account\n2. Select the \"Dashboard\" tab at the top of your account page.\n3. Under \"All Starlinks\" section, Select \"Manage\" next to the Starlink you wish to update\n4. Select the \"pencil\" icon next to \"IP Policy\"\n5. Select \"Public IP\" from the drop down menu\n6. Save\n7. Reboot your Starlink\n\n\nRelated questions:\n\n[What IP address does Starlink provide?](https://support.starlink.com/?topic=1192f3ef-2a17-31d9-261a-a59d215629f4)\n\n",
+  "LCL_SUP-1358-27047-21.existing": "Las cuentas empresariales pueden actualizar manualmente su dirección IP a una IP pública siguiendo los pasos que se indican a continuación:\n\n1. Inicie sesión en su cuenta www.starlink.com/account\n2. Seleccione la pestaña “Panel” en la parte superior de la página de su cuenta.\n3. En la sección “Todos los Starlinks”, seleccione “Administrar” junto al Starlink que desea actualizar\n4. Seleccione el icono del lápiz junto a “IP Policy”.\n5. Seleccione “IP pública” en el menú desplegable\n6. Guarde\n\n\n\n\nPreguntas relacionadas:\n\n[¿Qué dirección IP proporciona Starlink? ](https://support.starlink.com/?topic=1192f3ef-2a17-31d9-261a-a59d215629f4)\n\n[¿Cómo puedo obtener direcciones IP adicionales?](https://support.starlink.com/?topic=3bd80bd5-f0f2-50c2-6fc3-3f2286518dd5)",
+  "LCL_SUP-1358-27047-21": "",
+
+  "LCL_PRD-1756-69334-10.comment": "Starlink Aviation Router (Block 1)",
+  "LCL_PRD-1756-69334-10.existing": "Enrutador de Starlink Aviation",
+  "LCL_PRD-1756-69334-10": "",
+
+  "LCL_PRD-1753-91678-13.comment": "Starlink Aviation Power Supply (Block 1)",
+  "LCL_PRD-1753-91678-13.existing": "Fuente de alimentación de Starlink Aviation",
+  "LCL_PRD-1753-91678-13": "",
+
+  "LCL_PRD-1747-24856-10.comment": "Starlink Aviation, Small Aeroterminal Assembly (Block 1)",
+  "LCL_PRD-1747-24856-10.existing": "Starlink Aviation, montaje de aeroterminal pequeño ",
+  "LCL_PRD-1747-24856-10": "",
+
+  "LCL_PRD-1771-33478-7.comment": "Starlink Aviation Antenna-only Kit",
+  "LCL_PRD-1771-33478-7.existing": "Aeroterminal gubernamental Starlink",
+  "LCL_PRD-1771-33478-7": "",
+
+  "LCL_PRD-1773-83268-11.comment": "Starlink aviation kit in antenna only configuration. Includes the following parts:\n1x Aviation antenna\n1x Aviation Power Supply\n1x PoE to bulkhead harness (25m)\n1x Terminal Block to PSU cable \n1x PSU to RJ45 cable (30m)",
+  "LCL_PRD-1773-83268-11.existing": "Montaje de aeroterminal de Starlink sin carcasa aérea.",
+  "LCL_PRD-1773-83268-11": "",
+
+  "LCL_PRD-1772-38894-15.comment": "Starlink aviation kit in antenna only configuration",
+  "LCL_PRD-1772-38894-15.existing": "Montaje de aeroterminal de Starlink sin carcasa aérea.",
+  "LCL_PRD-1772-38894-15": "",
+
+  "LCL_CPDM-12651-69920-17.comment": "<p class='header'>Hardware Options</p><p><span class=\"fddbold20\">Standard┃Portable</p><p>The Standard Starlink is best for portable or stationary users and every day internet applications. Designed for easy setup and breakdown, the kit arrives with everything you need to get online in minutes. <a target='_blank' href=\"https://www.starlink.com/specifications?spec=1\"target=\\\"_blank\\\">Learn more</a>.<p><span class=\"fddbold20\"'>Flat High Perf.┃In-Motion</p><p>The Flat High Performance Starlink is designed for in-motion use and challenging weather environments. The kit includes a Wedge Mount for permanent installation on your vehicle. Currently the only dish authorized for in-motion use. <a target='_blank' href=\"https://www.starlink.com/specifications?spec=3\"target=\\\"_blank\\\">Learn more</a>.<p> ",
+  "LCL_CPDM-12651-69920-17.existing": "<p class='header'>Opciones de equipo</p><p><span class=\"fddbold20\">Estándar | Portátil</p><p>El Starlink estándar es mejor para usuarios portátiles o fijos y para aplicaciones de Internet diarias. Diseñado para una configuración y desglose fácil, el kit llega con todo lo necesario para obtener conectividad en cuestión de minutos. <a target='_blank' href=\"https://www.starlink.com/specifications?spec=1\"target=\\\"_blank\\\">Obtener más información.</a><p><span class=\"fddbold20\"'>Plano de alto rendimiento | Móvil</p><p>El Starlink plano de alto rendimiento está diseñado para uso en movimiento y entornos climáticos exigentes. El kit incluye un Wedge Mount para instalación permanente en su vehículo. Actualmente es la única antena parabólica autorizada para uso en movimiento. <a target='_blank' href=\"https://www.starlink.com/specifications?spec=3\"target=\\\"_blank\\\">Obtener más información.</a><p> ",
+  "LCL_CPDM-12651-69920-17": "",
+
+  "LCL_PRD-1782-89964-20.comment": "<small><i>*Price includes shipping and handling fees</i></small>\n<ul></ul>\n<div>The 8 m (26.2 ft) Starlink Cable is designed to replace the cable between the Flat High Performance Starlink and the Power Supply in case of damage.</div>\n\n<ul>\n    <div><strong>Compatibility: </strong> Flat High Performance Starlink Kit</div>\n    <div><strong>Package Dimensions:</strong> 216 x 201 x 62 mm / 8.5\" x 7.9\" x 2.4\" </div>\n    <div><strong>Package Weight:</strong> 0.95 kg / 2.0 lbs </div>\n</ul>\n\n<div class=\"additional-info-link\">\n    <a class=\"fov-toggle\">Obstruction Guidance</a>\n</div>",
+  "LCL_PRD-1782-89964-20.existing": "<small><i>*El precio incluye gastos de envío y gestión</i></small>\n<ul></ul>\n<div>El cable Starlink de 8 m (26,2 ft) está diseñado para reemplazar el cable entre el Starlink plano de alto rendimiento y la fuente de alimentación en caso de daños.</div>\n\n<ul>\n    <div><strong>Compatibilidad: </strong> Kit Starlink plano de alto rendimiento</div>\n    <div><strong>Dimensiones del paquete:</strong> 22 cm x 51,6 cm x 6,4 cm (8,7 in x 20,3 in x 2,5 in) </div>\n    <div><strong>Peso del paquete:</strong> 0,9 kg (2,0 lb) </div>\n</ul>\n\n<div class=\"additional-info-link\">\n    <a class=\"fov-toggle\">Guía para detectar obstrucciones</a>\n</div>",
+  "LCL_PRD-1782-89964-20": "",
+
+  "LCL_PRD-1785-71030-98.comment": "<small><i>*Price includes shipping and handling fees</i></small>\n<ul></ul>\n<div>The 0.5 m (1.6 ft) Starlink Cable is designed to replace the cable between the Flat High Performance Starlink and the Power Supply when shorter length is needed.</div>\n\n<ul>\n    <div><strong>Compatibility: </strong> Flat High Performance Starlink Kit</div>\n    <div><strong>Package Dimensions:</strong> 210 x 140 x 87 mm / 8.3\" x 5.5\" x 3.4\" </div>\n    <div><strong>Package Weight:</strong> 0.25 kg / 0.44 lbs. </div>\n</ul>\n\n<div class=\"additional-info-link\">\n    <a class=\"fov-toggle\">Obstruction Guidance</a>\n</div>",
+  "LCL_PRD-1785-71030-98.existing": "Cable de reemplazo plano de alto rendimiento de 0.5 m",
+  "LCL_PRD-1785-71030-98": "",
+
+  "LCL_CPDM-9474-31109-66.comment": "",
+  "LCL_CPDM-9474-31109-66.existing": "Negocio 1000",
+  "LCL_CPDM-9474-31109-66": "",
+
+  "LCL_CPDM-9529-87967-90.comment": "",
+  "LCL_CPDM-9529-87967-90.existing": "Móvil premium",
+  "LCL_CPDM-9529-87967-90": "",
+
+  "LCL_CPDM-9479-29692-85.comment": "",
+  "LCL_CPDM-9479-29692-85.existing": "Negocio 1000",
+  "LCL_CPDM-9479-29692-85": "",
+
+  "LCL_PRD-1979-52034-6.comment": "Starlink for Premium Mobile Access for Land & Sea. Starlink for commercial mobility. Intended Products: Yachts, Events. 5TB Priority Access Data Limit",
+  "LCL_PRD-1979-52034-6.existing": "Starlink para movilidad comercial. Productos previstos: Yates, eventos. Límite de datos de acceso prioritario de 5TB ",
+  "LCL_PRD-1979-52034-6": "",
+
+  "LCL_CPDM-9484-49725-80.comment": "",
+  "LCL_CPDM-9484-49725-80.existing": "Negocio 1000",
+  "LCL_CPDM-9484-49725-80": "",
+
+  "LCL_CPDM-9519-73750-74.comment": "",
+  "LCL_CPDM-9519-73750-74.existing": "Móvil premium",
+  "LCL_CPDM-9519-73750-74": "",
+
+  "LCL_CPDM-9524-69730-73.comment": "",
+  "LCL_CPDM-9524-69730-73.existing": "Móvil premium",
+  "LCL_CPDM-9524-69730-73": "",
+
+  "LCL_PRD-1886-79790-21.comment": "Commercial Mobile",
+  "LCL_PRD-1886-79790-21.existing": "Starlink para acceso móvil para tierra y mar",
+  "LCL_PRD-1886-79790-21": "",
+
+  "LCL_PRD-1978-41891-14.comment": "Premium Mobile",
+  "LCL_PRD-1978-41891-14.existing": "Starlink para acceso móvil premium para tierra y mar",
+  "LCL_PRD-1978-41891-14": "",
+
+  "LCL_CPDM-9050-17805-63.comment": "In-Motion",
+  "LCL_CPDM-9050-17805-63.existing": "Móvil",
+  "LCL_CPDM-9050-17805-63": "",
+
+  "LCL_CPDM-9051-48698-78.comment": "<p class='header'>Hardware Options</p><p><span class=\"fddbold20\">Standard┃Portable</p><p>The Standard Starlink is best for portable or stationary users and every day internet applications. Designed for easy setup and breakdown, the kit arrives with everything you need to get online in minutes. <a target='_blank' href=\"https://www.starlink.com/specifications?spec=1\"target=\\\"_blank\\\">Learn more</a>.<p><span class=\"fddbold20\"'>Flat High Perf.┃In-Motion</p><p>The Flat High Performance Starlink is designed for in-motion use and challenging weather environments. The kit includes a Wedge Mount for permanent installation on your vehicle. Currently the only dish authorized for in-motion use. <a target='_blank' href=\"https://www.starlink.com/specifications?spec=3\"target=\\\"_blank\\\">Learn more</a>.<p> ",
+  "LCL_CPDM-9051-48698-78.existing": "<p class='header'>Opciones de equipo</p><p><span class=\"fddbold20\">Estándar | Portátil</p><p>El Starlink estándar es mejor para usuarios portátiles o fijos y para aplicaciones de Internet diarias. Diseñado para una configuración y desglose fácil, el kit llega con todo lo necesario para obtener conectividad en cuestión de minutos. <a target='_blank' href=\"https://www.starlink.com/specifications?spec=1\"target=\\\"_blank\\\">Obtener más información.</a><p><span class=\"fddbold20\"'>Plano de alto rendimiento | Móvil</p><p>El Starlink plano de alto rendimiento está diseñado para uso en movimiento y entornos climáticos exigentes. El kit incluye un Wedge Mount para instalación permanente en su vehículo. Actualmente es la única antena parabólica autorizada para uso en movimiento. <a target='_blank' href=\"https://www.starlink.com/specifications?spec=3\"target=\\\"_blank\\\">Obtener más información.</a><p> ",
+  "LCL_CPDM-9051-48698-78": "",
+
+  "LCL_INVT-1311-99480-93.comment": "\tStarlink Business is immediately available at your address. No contracts, 30-day trial, delivery in 1-2 weeks. Select your monthly Priority Access Data.<Details><summary><u>Learn More about Starlink Business</u></summary><ul><li>Priority Access, which includes faster speeds (typically 40-220 Mbps download, 8-25 Mbps upload) & top network priority. The amount of Priority Access data depends on your Service Plan</li> <li>Publicly routable IPv4 address. Read more <a href=\"https://support.starlink.com/?topic=1192f3ef-2a17-31d9-261a-a59d215629f4\" target=\"_blank\" rel=\"noopener noreferrer\">here</a></li> <li>Dedicated priority support</li> <li>Dashboard for remote monitoring & network management</li> <li>Unlimited service locations. Order your first Starlink on this page; once complete, you can add locations on your account portal</li></ul></details><a href=\"https://starlink.typeform.com/to/mLiTd6pK\" target=\"_blank\" rel=\"noopener noreferrer\">Request a Sales Consultation</a><br><a href=\"https://starlink.typeform.com/to/DtyYJvZQ\" target=\"_blank\" rel=\"noopener noreferrer\">Ready to order > 10 sites? Submit details </a>",
+  "LCL_INVT-1311-99480-93.existing": "</br>Starlink Business está disponible inmediatamente en su dirección. Prueba de 30 días, sin contratos, con entrega en 1-2 semanas. <Details><summary><u>Más información sobre Starlink Business</u></summary><ul><li>2 TB de acceso prioritario, que incluye velocidades más rápidas (descarga de 40-220 Mbps, carga de 8-25 Mbps) y prioridad de red, y acceso básico ilimitado. Esta política entrará en vigor en abril de 2023.</li> <li>Dirección IPv4 enrutable públicamente</li> <li>Asistencia prioritaria dedicada</li> <li>Panel para empresas para supervisión y gestión de redes de manera remota</li> <li>Ubicaciones de servicio ilimitadas Solicite su primer Starlink en esta página; una vez que complete este paso, puede agregar ubicaciones en el portal de su cuenta</li></ul></details>¿Tiene preguntas? <a href=\"https://starlink.typeform.com/to/mLiTd6pK\" target=\"_blank\" rel=\"noopener noreferrer\">Solicitar una consulta de ventas</a>",
+  "LCL_INVT-1311-99480-93": "</br>Starlink Business está disponible inmediatamente en su dirección. Prueba de 30 días, sin contratos, con entrega en 1-2 semanas. <Details><summary><u>Más información sobre Starlink Business</u></summary><ul><li>Acceso prioritario, que incluye velocidades más rápidas (50-200 Mbps) y prioridad de red, y acceso básico ilimitado. Esta política entrará en vigor en abril de 2023.</li> <li>Dirección IPv4 enrutable públicamente</li> <li>Asistencia prioritaria dedicada</li> <li>Panel para empresas para supervisión y gestión de redes de manera remota</li> <li>Ubicaciones de servicio ilimitadas Solicite su primer Starlink en esta página; una vez que complete este paso, puede agregar ubicaciones en el portal de su cuenta</li></ul><a href=\"https://starlink.typeform.com/to/XXB75XAz\"target=\\\"_blank\\\">Regístrese para recibir actualizaciones y enviar comentarios</a> o <a href=\"https://support.starlink.com/topic?category=26&category=34\" target=\"_blank\" rel=\"noopener noreferrer\">visite Asistencia técnica</a>.",
+
+  "LCL_CPDM-9489-20834-75.comment": "",
+  "LCL_CPDM-9489-20834-75.existing": "Negocio 1000",
+  "LCL_CPDM-9489-20834-75": "",
+
+  "PRD_INVT-1006-12953-95.comment": "High-speed, low-latency broadband internet in remote and rural locations across the globe.",
+  "PRD_INVT-1006-12953-95.existing": "<p>Internet de banda ancha de alta velocidad y baja latencia para áreas remotas y rurales en todo el mundo. {{ subscriptionPrice }}/mes con un costo único de equipo de {{ kitPrice }}.</p>",
+  "PRD_INVT-1006-12953-95": "",
+
+  "PRD_INVT-1010-84796-4.comment": "<h3 class=\"banner\">AUSTRALIA LIMITED TIME OFFER</h3><h3><span class=\"sub-banner g-red g-strikethrough\">$924</span><span class=\"sub-banner\"> {{kitPrice}} </span><span class=\"fddbold20\"> for hardware</span></h3><p><br/>High-speed, low-latency broadband internet in remote and rural locations across the globe for {{ subscriptionPrice }}/mo.</p>",
+  "PRD_INVT-1010-84796-4.existing": "<h3 class=\"banner\">OFERTA DE INICIO DE AÑO EN AUSTRALIA</h3><h3><span class=\"sub-banner g-red g-strikethrough\">$ 924</span><span class=\"sub-banner\"> {{kitPrice}} </span><span class=\"fddbold20\"> por hardware</span></h3><p><br/>Internet de banda ancha de alta velocidad y baja latencia para áreas remotas y rurales en todo el mundo por {{ subscriptionPrice }}/mes.</p>",
+  "PRD_INVT-1010-84796-4": "",
+
+  "PRD_INVT-1018-49992-11.comment": "<h3 class=\"banner\">AUSTRALIA LIMITED TIME OFFER</h3><h3><span class=\"sub-banner g-red g-strikethrough\">$924</span><span class=\"sub-banner\"> {{kitPrice}} </span><span class=\"fddbold20\"> for hardware</span></h3><p><br/>Immediately access high-speed, low-latency internet on an as-needed basis at any destination where Starlink provides active coverage. {{ subscriptionPrice }}/mo with a one-time hardware cost of {{ kitPrice }}.</p>",
+  "PRD_INVT-1018-49992-11.existing": "<h3 class=\"banner\">OFERTA DE INICIO DE AÑO EN AUSTRALIA</h3><h3><span class=\"sub-banner g-red g-strikethrough\">$ 924</span><span class=\"sub-banner\"> {{kitPrice}} </span><span class=\"fddbold20\"> por hardware</span></h3><p><br/>Acceso inmediato a Internet de alta velocidad y baja latencia en función de las necesidades en cualquier destino donde Starlink ofrezca cobertura activa. {{ subscriptionPrice }}/mes con un costo único de equipo de {{ kitPrice }}.</p>",
+  "PRD_INVT-1018-49992-11": "",
+
+  "LCL_PRD-2008-26158-98.comment": "Business - 1 TB",
+  "LCL_PRD-2008-26158-98.existing": "Suscripción al servicio Starlink Business de 1 TB",
+  "LCL_PRD-2008-26158-98": "",
+
+  "PRD_INVT-1042-75861-2.comment": "<h3 class=\"banner\">HARDWARE RENTALS NOW AVAILABLE</h3 \t</p>High-speed internet from space available throughout New Zealand. \t<br>Rent Starlink hardware for $29/mo or purchase for $729. Monthly service for $159/mo.",
+  "PRD_INVT-1042-75861-2.existing": "<h3 class=\"banner\">OFERTA DE INICIO DE AÑO EN NUEVA ZELANDA</h3><h3><span class=\"sub-banner g-red g-strikethrough\">$ 1040</span><span class=\"sub-banner\"> $ 520 </span><span class=\"fddbold20\"> por el hardware</span></h3><p><br/>Internet de banda ancha de alta velocidad y baja latencia para áreas remotas y rurales en todo el mundo por {{ subscriptionPrice }}/mes.</p>",
+  "PRD_INVT-1042-75861-2": "",
+
+  "LCL_PRD-2009-48691-5.comment": "Business - 1 TB",
+  "LCL_PRD-2009-48691-5.existing": "Plan de suscripción a Business de 1 TB",
+  "LCL_PRD-2009-48691-5": "",
+
+  "LCL_CPDM-10062-63818-11.comment": "",
+  "LCL_CPDM-10062-63818-11.existing": "Móvil premium",
+  "LCL_CPDM-10062-63818-11": "",
+
+  "LCL_CPDM-10042-39592-11.comment": "",
+  "LCL_CPDM-10042-39592-11.existing": "Business 2 TB",
+  "LCL_CPDM-10042-39592-11": "",
+
+  "LCL_CPDM-10043-98000-1.comment": "",
+  "LCL_CPDM-10043-98000-1.existing": "Business 2 TB",
+  "LCL_CPDM-10043-98000-1": "",
+
+  "LCL_CPDM-10048-45057-10.comment": "",
+  "LCL_CPDM-10048-45057-10.existing": "Business 6 TB",
+  "LCL_CPDM-10048-45057-10": "",
+
+  "LCL_CPDM-10047-67009-10.comment": "",
+  "LCL_CPDM-10047-67009-10.existing": "Business 6 TB",
+  "LCL_CPDM-10047-67009-10": "",
+
+  "LCL_INVT-1581-32478-96.comment": "<h2 class=\"fddbold16\">Limited Time Offer *</br><span class=\"sub-banner g-white g-strikethrough\">$759</span><span class=\"sub-banner\"> $350 </span><span class=\"fddbold16\">FOR STANDARD HARDWARE</span><p>Starlink is currently sold out in your area but expects to add more users in 2023. Order now to reserve your Starlink and you will receive a notification once your kit is ready to ship.</p><p>Alternatively, Starlink Roam is immediately available for connectivity while traveling. Orders typically ship within 2 weeks. <a href=\"https://www.starlink.com/rv?referral=RC-1145-90154-1&utm_source=RV%20Preorder%20Page\" target=\"_blank\">Learn more here.</a><p>* Hardware price is only guaranteed if order is fulfilled during offer promotion.</p>",
+  "LCL_INVT-1581-32478-96.existing": "Realice el pedido ahora para reservar su Starlink. Starlink espera expandir el servicio en su área en 2023. Recibirá una notificación cuando su Starlink esté listo para enviarse.<p>Como alternativa, Starlink Roam está disponible de inmediato para obtener conectividad mientras viaja. Los pedidos suelen enviarse en un plazo de 2 semanas. <a href=\"https://www.starlink.com/rv?referral=RC-1145-90154-1&utm_source=RV%20Preorder%20Page\" target=\"_blank\">Obtenga más información aquí.</a>",
+  "LCL_INVT-1581-32478-96": "",
+
+  "LCL_CPDM-10946-66381-20.comment": "",
+  "LCL_CPDM-10946-66381-20.existing": "Móvil premium",
+  "LCL_CPDM-10946-66381-20": "",
+
+  "LCL_CPDM-10941-22430-2.comment": "",
+  "LCL_CPDM-10941-22430-2.existing": "Móvil premium",
+  "LCL_CPDM-10941-22430-2": "",
+
+  "LCL_SUP-1205-49218-16.comment": "**Note: We are currently experiencing a surge in demand for Starlink. Deliveries may take 2-4 weeks, however certain countries (i.e. Brazil, Philippines) may experience longer delivery timelines. We will continue working to get your order shipped out as soon as possible. Please continue to watch your order summary for status. Thank you for your patience and for your support!**\n\nFor estimated shipping timelines, please visit your orders in [your Account](https://www.starlink.com/account/home). \n\nOnce an item in your order ships, you will receive an email that includes a Tracking Number and the status will update to Shipped. You can then check delivery status using FedEx and DHL websites. At this time, no expedited shipment options are available.\n\nYour Starlink Kit comes with all the necessary equipment to set up and get online. Service and billing are not dependent on mounts and accessories and cannot be paused or postponed due to shipment delays.\n\n\n[Why does my order status say Preparing Shipment?](https://support.starlink.com/?topic=2777a3b9-3bc8-b007-b476-8858465f683d)\n\n[When will I receive my Starlink?](https://support.starlink.com/?topic=f2902e96-bb7e-3eca-2876-3121bda53096)",
+  "LCL_SUP-1205-49218-16.existing": "**Nota: actualmente estamos experimentando un aumento en la demanda de Starlink, por lo que las entregas tienen una demora de 2 a 4 semanas. Seguiremos trabajando para que su pedido se envíe lo antes posible. Continúe viendo su resumen del pedido para conocer el estado. ¡Gracias por su paciencia y por su apoyo!**\n\nPara averiguar los plazos estimados de envío, visite sus pedidos en [su cuenta](https://www.starlink.com/account/home). \n\nUna vez que se envíe su pedido, recibirá un correo electrónico que incluye un número de seguimiento y el estado se actualizará a Enviado. Puede verificar entonces el estado de la entrega utilizando los sitios web de FedEx y DHL. En este momento, no hay opciones de envío acelerado disponibles.\n\nSu kit de Starlink viene con todo el equipamiento necesario para configurarlo y conectarse. El servicio y su facturación son independientes de los soportes y accesorios y no pueden interrumpirse o posponerse debido a demoras en el envío.\n\n\n[¿Por qué el estado de mi pedido dice Preparando envío?](https://support.starlink.com/?topic=2777a3b9-3bc8-b007-b476-8858465f683d)\n\n[¿Cuándo recibiré el Starlink?](https://support.starlink.com/?topic=f2902e96-bb7e-3eca-2876-3121bda53096)",
+  "LCL_SUP-1205-49218-16": "",
+
+  "LCL_SUP-1397-72420-19.comment": "The ability to exchange Starlink hardware type from one to another is dependent on your region and service type.\n\n\n\n**Residential service:**\n\nAvailable only in (US, FI, SE, NO, UK, CA)\n\nTo upgrade your Standard Starlink to High Performance Starlink, please submit a support ticket for further assistance.\n\nFlat High Performance is not yet available for this service type.\n\n\n\n**Roam service (US only):**\n\nYou can purchase Starlink Roam (Regional Plan) with Standard - Portable or Mobile -Flat High Performance hardware. \n\nNote: Mobile - Flat High Performance hardware is not supported with the Roam (Global Plan).\n\n\n\n**Business service:**\n\nExchanging Starlink hardware type is not supported at this time.\n\n\n\n**Maritime service (US Only):**\n\nTo exchange your High Performance Starlinks for the Flat High Performance Starlinks, please submit a support ticket for further assistance.",
+  "LCL_SUP-1397-72420-19.existing": "La capacidad de intercambiar el tipo de hardware Starlink de uno a otro depende de su región y tipo de servicio.\n\n\n\n**Servicio residencial:**\n\nDisponible solo en (EE. UU., FI, SE, NO, RU, CA)\n\nPara actualizar su Starlink estándar a Starlink de alto rendimiento, envíe un ticket de soporte para obtener más ayuda.\n\nFlat High Performance (Plano de alto rendimiento) aún no está disponible para este tipo de servicio.\n\n\n\n**Servicio itinerante (solo en EE. UU.):**\n\nPuede comprar Starlink Roam (plan regional) con equipo estándar, portátil o móvil, plano de alto rendimiento. Móvil: el equipo plano de alto rendimiento no es compatible con Starlink Roam (plan global).\n\n\n\n**Servicio de negocios:**\n\nEl intercambio de tipo de hardware Starlink no es compatible en este momento.\n\n\n\n**Servicio marítimo (solo EE. UU.):**\n\nPara cambiar sus Starlinks de alto rendimiento por los Starlinks planos de alto rendimiento, envíe un ticket de soporte para obtener más ayuda.",
+  "LCL_SUP-1397-72420-19": "",
+
+  "LCL_CPDM-12724-72158-15.comment": "",
+  "LCL_CPDM-12724-72158-15.existing": "Móvil premium",
+  "LCL_CPDM-12724-72158-15": "",
+
+  "LCL_SUP-1183-64827-24.comment": "**Note: We are currently experiencing a surge in demand for Starlink. Deliveries may take 2-4 weeks, however certain countries (i.e. Brazil, Philippines) may experience longer delivery timelines. We will continue working to get your order shipped out as soon as possible. Please continue to watch your order summary for status. Thank you for your patience and for your support!**\n\nYour billing begins 14 days from the day your Kit ships.\n\nFor estimated shipping timelines, please visit your orders in your Account. \n\nOnce an item in your order ships, you will receive an email that includes a Tracking Number and the status will update to Shipped. You can then check delivery status using FedEx and DHL websites. \n\n**Related questions:**\n\n[How does billing work?](https://support.starlink.com/?topic=6f4bf543-476c-c0c2-166c-485756acea90)\n\n[Can I pause service or delay billing?](https://support.starlink.com/?topic=f4ebc1cd-ff4d-cb6b-a0c7-1e3b1378579a)",
+  "LCL_SUP-1183-64827-24.existing": "**Nota: Actualmente estamos experimentando un aumento en la demanda de Starlink, por lo que las entregas tienen una demora de 2 a 4 semanas. Seguiremos trabajando para que su pedido se envíe lo antes posible. Continúe viendo su resumen del pedido para conocer el estado. ¡Gracias por su paciencia y por su apoyo!**\n\nSu facturación comienza 14 días después del día que se envía su kit.\n\nPara averiguar los plazos estimados de envío, visite sus pedidos en su cuenta. \n\nUna vez que se envíe su pedido, recibirá un correo electrónico que incluye un número de seguimiento. Puede verificar entonces el estado de la entrega utilizando los sitios web de FedEx y DHL. \n\n**Preguntas relacionadas**:\n\n[¿Cómo funciona la facturación?](https://support.starlink.com/?topic=6f4bf543-476c-c0c2-166c-485756acea90)\n\n[¿Puedo pausar el servicio o retrasar la facturación?](https://support.starlink.com/?topic=f4ebc1cd-ff4d-cb6b-a0c7-1e3b1378579a)",
+  "LCL_SUP-1183-64827-24": "",
+
+  "PRD_INVT-1159-37335-5.comment": "<h2 class=\"banner\"> Now Offering Hardware Rentals</h2> \t</p> Rent Starlink hardware for €15/mo or purchase for <span class=\"g-strikethrough\">€450</span> €300, monthly service for €50/mo. High-speed internet from space available throughout France.",
+  "PRD_INVT-1159-37335-5.existing": "<p>Internet de banda ancha de alta velocidad y baja latencia para áreas remotas y rurales en todo el mundo. {{ subscriptionPrice }}/mes con un costo único de equipo de {{ kitPrice }}.</p><p>¿Tiene preguntas antes de hacer el pedido? Llame al 0805 987 974 desde Francia, de lunes a viernes de 8 a. m. a 8 p. m.</p>",
+  "PRD_INVT-1159-37335-5": "",
+
+  "PRD_INVT-1118-65279-8.comment": "High-speed, low latency internet for businesses, even in the most rural and remote locations across Germany. Tiers available across for both enterprise businesses and small offices. Starting at €65/mo, excluding VAT.",
+  "PRD_INVT-1118-65279-8.existing": "Internet de alta velocidad y baja latencia para empresas, incluso en áreas más remotas y rurales de toda Alemania. Niveles disponibles tanto para empresas como para pequeñas oficinas. A partir de 65 €/mes, no incluye IVA.",
+  "PRD_INVT-1118-65279-8": "",
+
+  "LCL_INVT_SIGNUP_TOP_DE.comment": "Starlink is now offering hardware rentals throughout Germany. \t<Details><summary><u>Learn More About Starlink Rentals</u></summary><ul> \t<li> Rent Starlink hardware for a one-time €50 activation and €15/mo or purchase for <span class=\"g-strikethrough\">€450</span> €300. Starlink service is €80/mo.</li> \t<li> Try Starlink for 30 days and if not satisfied, return the hardware for a full refund of your €50 activation, or <span class=\"g-strikethrough\">€450</span> €300 if purchased. </li> \t<li> There are no long-term contracts, both hardware rental and Starlink service are charged month-to-month.</li> \t<li>Rental customers cannot transfer their hardware to a different Starlink account.</li> \t<li> You may cancel your Starlink service at any time. If cancelled, your service will remain active until the end of the payment period. If you have rented a Starlink Kit, you must return your equipment in good condition within 30 days of service cancellation or you will be charged the full price of the kit.</li> <li>To learn more about Starlink rentals, <a href=\"https://support.starlink.com/?topic=ea2cca85-c95d-595b-06e6-4882ebe915df\"target=\\\"_blank\\\"> Read our FAQ page</a></li> ",
+  "LCL_INVT_SIGNUP_TOP_DE.existing": "<h2 class=\"fddbold16\">Starlink está disponible en su área.</h2><p>Los clientes de su región suelen tener velocidades de descarga de entre 50 y 200 Mbps. Sin contratos, prueba de 30 días.</br>Los tiempos de envío se calculan actualmente en 1 a 2 semanas desde el pedido.</br>Para usuarios de pequeñas oficinas y empresas, consulte <a href='https://www.starlink.com/business' target='_blank'>Starlink Business</a>.</p>",
+  "LCL_INVT_SIGNUP_TOP_DE": "",
+
+  "LCL_PRD-2097-22964-7.comment": "Business - 6 TB",
+  "LCL_PRD-2097-22964-7.existing": "Suscripción al servicio Starlink Business de 6 TB",
+  "LCL_PRD-2097-22964-7": "",
+
+  "LCL_PRD-2102-26354-91.comment": "Business - 2 TB",
+  "LCL_PRD-2102-26354-91.existing": "Suscripción al servicio Starlink Business de 2 TB",
+  "LCL_PRD-2102-26354-91": "",
+
+  "LCL_CPDM-14835-32935-19.comment": "",
+  "LCL_CPDM-14835-32935-19.existing": "Business 1000",
+  "LCL_CPDM-14835-32935-19": "",
+
+  "LCL_CPDM-14982-18697-31.comment": "",
+  "LCL_CPDM-14982-18697-31.existing": "Business 1000",
+  "LCL_CPDM-14982-18697-31": "",
+
+  "LCL_CPDM-22331-69497-22.comment": "",
+  "LCL_CPDM-22331-69497-22.existing": "Business 1000",
+  "LCL_CPDM-22331-69497-22": "",
+
+  "LCL_INVT-1698-68518-9.comment": "<h2 class=\"fddbold16\">Starlink is currently available in your area!</h2><p>Customers in your region typically see download speeds around 100 Mbps. No contracts, 30-day trial.</br>Shipping times are currently estimated to be 3-4 weeks from order.</br>Prices below are based on the official exchange rate. For Naira payments, please use Payday, Barter, Paga, or similar.</br>Not ordering today? Submit your email and give feedback <a href=\"https://starlink.typeform.com/to/pUQBtwoq#acct=xxxxx\"target=\\\"_blank\\\">here</a>.",
+  "LCL_INVT-1698-68518-9.existing": "<h2 class=\"fddbold16\">Starlink está disponible en su área.</h2><p>Los clientes de su región suelen tener velocidades de descarga de entre 50 y 200 Mbps. Sin contratos, prueba de 30 días.</br>Los tiempos de envío se calculan actualmente en 3 a 4 semanas desde el pedido.</br>¿No va a realizar su pedido hoy? Envíe su correo electrónico y haga comentarios <a href=\"https://starlink.typeform.com/to/pUQBtwoq#acct=xxxxx\"target=\\\"_blank\\\">aquí</a>.",
+  "LCL_INVT-1698-68518-9": "",
+
+  "LCL_SUP-1470-86892-29.comment": "If I cancel service as a Business account, when will it end?",
+  "LCL_SUP-1470-86892-29.existing": "Si cancelo el servicio como una cuenta empresarial, ¿cuándo finalizará?",
+  "LCL_SUP-1470-86892-29": "",
+
+  "LCL_PRD-2293-22578-6.comment": "Global Roaming Subscription",
+  "LCL_PRD-2293-22578-6.existing": "Subscripción - Servicio itinerante global",
+  "LCL_PRD-2293-22578-6": "",
+
+  "LCL_INVT-1705-78881-2.comment": "Order now to reserve your Starlink. Starlink expects to expand service in your area in 2023. You will receive a notification once your Starlink is ready to ship. Prices below are based on the official exchange rate. For Naira payments, please use Payday, Barter, or similar.</br>Alternatively, Starlink Roam is immediately available for connectivity while traveling. Orders typically ship within 2-3 weeks. <a href=\"https://www.starlink.com/rv?referral=RC-1145-90154-1&utm_source=RV%20Preorder%20Page\" target=\"_blank\">Learn more here.</a>",
+  "LCL_INVT-1705-78881-2.existing": "Realice el pedido ahora para reservar su Starlink. Starlink espera expandir el servicio en su área en 2023. Recibirá una notificación cuando su Starlink esté listo para enviarse. </br>Los precios que aparecen a continuación se basan en el tipo de cambio oficial. Para los pagos en naira, utilice Payday, Barter o similares.",
+  "LCL_INVT-1705-78881-2": "",
+
+  "LCL_PRD-2294-88010-0.comment": "Global Roam",
+  "LCL_PRD-2294-88010-0.existing": "Servicio itinerante global",
+  "LCL_PRD-2294-88010-0": "",
+
+  "LCL_CPDM-29550-30084-12.comment": "",
+  "LCL_CPDM-29550-30084-12.existing": "Datos prioritarios de transmisión 2 TB",
+  "LCL_CPDM-29550-30084-12": "",
+
+  "LCL_INVT-1754-80817-98.comment": "<h2 class=\"fddbold16\">Starlink is currently available in your area!</h2><li>Customers in your region typically see download speeds around 100 Mbps.</li> <li>No contracts, 30-day trial.</li> <li>Shipping times are currently estimated to be 3-5 weeks from order.</li> <li>For address issues during ordering, verify the proper format through <a href=\"https://dct.dhl.com/\"target=\\\"_blank\\\"> DHL</a>.</li> <li>PhilSys Card Number (PCN) is optional.</li>",
+  "LCL_INVT-1754-80817-98.existing": "<h2 class=\"fddbold16\">Starlink está actualmente disponible en su área.</h2><li>Los clientes de su región suelen tener velocidades de descarga de entre 50 y 200 Mbps.</li> <li>Sin contratos, prueba de 30 días.</li> <li>Los tiempos de envío se calculan actualmente en 2 a 4 semanas desde el pedido.</li> <li>Para solucionar problemas durante la realización de pedidos, verifique que el formato sea adecuado a través de <a href=\"https://dct.dhl.com/\"target=\\\"_blank\\\">DHL</a>.</li> <li>El número de tarjeta PhilSys (PCN) es opcional.</li>",
+  "LCL_INVT-1754-80817-98": "",
+
+  "LCL_INVT_PREMIUMORDER_TOP.comment": "Starlink Business is immediately available at your address. No contracts, 30-day trial, delivery in 1-2 weeks. Select your monthly Priority Access Data.<Details><summary><u>Learn More about Starlink Business</u></summary><ul><li>Priority Access, which includes faster speeds (typically 40-220 Mbps download, 8-25 Mbps upload) and top network priority</li> <li>Publicly routable IPv4 address. Read more <a href=\"https://support.starlink.com/?topic=1192f3ef-2a17-31d9-261a-a59d215629f4\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.</li> <li>Dedicated priority support</li> <li>Enterprise dashboard for remote monitoring & network management</li> <li>Unlimited service locations. Order your first Starlink on this page; once complete, you can add locations on your account portal</li></ul><a href=\"https://starlink.typeform.com/to/z5eGaaZ1\"target=\\\"_blank\\\">Give Feedback</a> or <a href=\"https://support.starlink.com/topic?category=26&category=34\" target=\"_blank\" rel=\"noopener noreferrer\">visit Support</a>.",
+  "LCL_INVT_PREMIUMORDER_TOP.existing": "</br>Starlink Business está disponible inmediatamente en su dirección. Prueba de 30 días, sin contratos, con entrega en 1-2 semanas. <Details><summary><u>Más información sobre Starlink Business</u></summary><ul><li>1 TB de acceso prioritario, que incluye velocidades más rápidas (+25 %) y prioridad de red, y acceso básico ilimitado. Esta política entrará en vigor en abril de 2023.</li> <li>Dirección IPv4 enrutable públicamente</li> <li>Asistencia prioritaria dedicada</li> <li>Panel para empresas para supervisión y gestión de redes de manera remota</li> <li>Ubicaciones de servicio ilimitadas Solicite su primer Starlink en esta página; una vez que complete este paso, puede agregar ubicaciones en el portal de su cuenta</li></ul><a href=\"https://starlink.typeform.com/to/z5eGaaZ1\"target=\\\"_blank\\\">Proporcione comentarios</a> o <a href=\"https://support.starlink.com/topic?category=26&category=34\" target=\"_blank\" rel=\"noopener noreferrer\">visite Asistencia técnica</a>.",
+  "LCL_INVT_PREMIUMORDER_TOP": "</br>Starlink Business está disponible inmediatamente en su dirección. Prueba de 30 días, sin contratos, con entrega en 1-2 semanas. <Details><summary><u>Más información sobre Starlink Business</u></summary><ul><li>Acceso prioritario, que incluye velocidades más rápidas (50-200 Mbps) y prioridad de red, y acceso básico ilimitado. Esta política entrará en vigor en abril de 2023.</li> <li>Dirección IPv4 enrutable públicamente</li> <li>Asistencia prioritaria dedicada</li> <li>Panel para empresas para supervisión y gestión de redes de manera remota</li> <li>Ubicaciones de servicio ilimitadas Solicite su primer Starlink en esta página; una vez que complete este paso, puede agregar ubicaciones en el portal de su cuenta</li></ul><a href=\"https://starlink.typeform.com/to/XXB75XAz\"target=\\\"_blank\\\">Regístrese para recibir actualizaciones y enviar comentarios</a> o <a href=\"https://support.starlink.com/topic?category=26&category=34\" target=\"_blank\" rel=\"noopener noreferrer\">visite Asistencia técnica</a>.",
+
+  "LCL_PRD-2365-62795-11.comment": "<small><i>*Price includes shipping and handling fees</i></small>\n<ul></ul>\n<div>The 5 m (16.5 ft) Ethernet Cable is designed to replace the cable from the High Performance Starlink Kit between the Power Supply and the RJ45 connector (for third party routers or devices).</div>\n\n<ul>\n   <div><strong>Compatibility: </strong>High Performance Starlink Kit, Flat High Performance Starlink </div>\n    <div><strong>Tools Needed:</strong>  N/A</div>\n<div><strong>Package Dimensions:</strong> 225 x 210 x 60 mm / 8.9\" x 8.3\" x 2.4\" </div>\n    <div><strong>Package Weight:</strong> 0.42 kg / 0.93 lbs </div>\n</ul>\n\n<div class=\"additional-info-link\">\n    <a class=\"fov-toggle\">Obstruction Guidance</a>\n</div>",
+  "LCL_PRD-2365-62795-11.existing": "Cable Ethernet Starlink de alto rendimiento de 5 m",
+  "LCL_PRD-2365-62795-11": "",
+
+  "LCL_PRD-2370-12670-94.comment": "<small><i>*Price includes shipping and handling fees</i></small>\n<ul></ul>\n<div>The 2 m (6.5 ft) Router Cable is designed to replace the standard cable from the High Performance Starlink Kit between the Power Supply and the Starlink Router in case of damage.</div>\n\n<ul>\n    <div><strong>Compatibility:</strong> High Performance Starlink Kit, Flat High Performance Starlink Kit</div>\n    <div><strong>Tools Needed: </strong> N/A </div>\n    <div><strong>Package Dimensions:</strong> 225 x 210 x 60 mm / 8.9\" x 8.3\" x 2.4\" </div>\n    <div><strong>Package Weight:</strong> 0.42 kg / 0.93 lbs </div>\n</ul>\n\n<div class=\"additional-info-link\">\n    <a class=\"fov-toggle\">Obstruction Guidance</a>\n</div>",
+  "LCL_PRD-2370-12670-94.existing": "Cable enrutador Starlink de alto rendimiento de 2 m",
+  "LCL_PRD-2370-12670-94": "",
+
+  "PRD_INVT-1070-70495-1.comment": "<h4> Now Offering Hardware Rentals</h4> \t\t</p> Rent Starlink hardware for €15/mo or purchase for <span class=\"g-strikethrough\">€450</span> €300, monthly service for €85/mo. High-speed internet from space available throughout Ireland.",
+  "PRD_INVT-1070-70495-1": "",
+
+  "LCL_SUP-1488-71717-28.comment": "How can Starlink Business and Maritime customers order more than one Starlink?",
+  "LCL_SUP-1488-71717-28": "",
+
+  "LCL_SUP-1489-51233-20.comment": "To add an additional service location to your account, you can place another Starlink order, as availability permits, by clicking + in the \"Your Starlinks\" section of your account, [here](https://www.starlink.com/account/home).\n\nYou can individually add Starlinks to your cart using the \"+\" and check out in bulk once all locations have been added. Starlink Business customers have access to an unlimited number of service locations.",
+  "LCL_SUP-1489-51233-20": "",
+
+  "LCL_SUP-1490-49969-35.comment": "How do Starlink Business customers receive invoices?",
+  "LCL_SUP-1490-49969-35": "",
+
+  "LCL_SUP-1493-32561-18.comment": "We currently do not support the functionality to merge or split existing accounts.",
+  "LCL_SUP-1493-32561-18": "",
+
+  "LCL_SUP-1492-37118-20.comment": "Can I merge or split my existing account?",
+  "LCL_SUP-1492-37118-20": "",
+
+  "LCL_SUP-1494-58789-39.comment": "How can I add a contact to my Starlink Business or Maritime account? ",
+  "LCL_SUP-1494-58789-39": "",
+
+  "LCL_SUP-1495-57828-33.comment": "To add a contact to your account, reach out to Customer Support and provide the following information:\n\n* Contact's full name\n* Email address\n* Phone number\n\nPlease note that by adding a contact to your account, this contact will have access to all account information and features. We currently are not able to provide role-based access.\n\n",
+  "LCL_SUP-1495-57828-33": "",
+
+  "LCL_SUP-1491-53923-21.comment": "Invoices are accessible at any time from your Starlink account. To view or download invoices, follow the steps below: \n\n1. Login to your Starlink account\n2. Navigate to the \"Billing\" tab\n3. Click through the pages for all records of your statements\n4. Select the download arrow to download invoices into a PDF file for viewing\n\nStatements will be emailed each month automatically to the account's main contact(s). At this time, we are not able to email invoices to a specific contact on a Starlink Business account. To ensure invoices are delivered to desired contacts, verify all contacts have been added to the account.\n\n\n\n\nRelated questions:\n\n[How can I add a contact to my account?](https://support.starlink.com/?topic=b33da5ba-46f4-c93a-5cbb-700edae91188)\n\n[Do you offer role based access control?](https://support.starlink.com/?topic=4c00bc5d-558b-f6ef-76fe-928e19cdb10c)  \n\n\n",
+  "LCL_SUP-1491-53923-21": "",
+
+  "LCL_PRD-2373-45646-6.comment": "SMALL AERO TERMINAL, STARLINK AVIATION",
+  "LCL_PRD-2373-45646-6": "",
+
+  "LCL_PRD-2378-46555-11.comment": "SMALL AERO TERMINAL, STARLINK AVIATION",
+  "LCL_PRD-2378-46555-11": "",
+
+  "LCL_PRD-2380-92538-6.comment": "Aviation aeroterminal in small aeroshell configuration",
+  "LCL_PRD-2380-92538-6": "",
+
+  "LCL_PRD-2374-60462-0.comment": "SMALL AERO TERMINAL, STARLINK AVIATION",
+  "LCL_PRD-2374-60462-0": "",
+
+  "LCL_PRD-2379-29051-4.comment": "SMALL AERO TERMINAL, STARLINK AVIATION",
+  "LCL_PRD-2379-29051-4": "",
+
+  "LCL_SUP-1496-22305-16.comment": "Find your recommended Starlink installer.",
+  "LCL_SUP-1496-22305-16": "",
+
+  "LCL_PRD-2383-94106-2.comment": "Starlink Aviation Kit - Antenna Only ",
+  "LCL_PRD-2383-94106-2": "",
+
+  "LCL_PRD-2384-29645-9.comment": "Antenna only Starlink Aviation Kit. ",
+  "LCL_PRD-2384-29645-9": "",
+
+  "LCL_PRD-2385-40527-2.comment": "Antenna only Starlink Aviation Kit. Contains the following parts:\n- 1x 06603000-501 Antenna\n- 1x 01639727-503 Power Supply\n- 1x 01687325-625 25m POE to Bulkhead Cable\n- 1x 01645978-601 Terminal Block HP PSU Cable\n- 1x 01612129-620 30m PSU to RJ45 Cable ",
+  "LCL_PRD-2385-40527-2": "",
+
+  "LCL_PRD-2388-39881-16.comment": "Starlink Aviation Kit - Antenna Only ",
+  "LCL_PRD-2388-39881-16": "",
+
+  "LCL_PRD-2389-74519-14.comment": "Antenna only Starlink Aviation Kit. ",
+  "LCL_PRD-2389-74519-14": "",
+
+  "LCL_PRD-2390-14393-0.comment": "Antenna only Starlink Aviation Kit. Contains the following parts:\n- 1x 06603000-501 Antenna\n- 1x 01639727-503 Power Supply\n- 1x 01687325-625 25m POE to Bulkhead Cable\n- 1x 01645978-601 Terminal Block HP PSU Cable\n- 1x 01612129-620 30m PSU to RJ45 Cable ",
+  "LCL_PRD-2390-14393-0": "",
+
+  "LCL_PRD-2393-83467-11.comment": "Starlink Aviation Kit - Antenna Only ",
+  "LCL_PRD-2393-83467-11": "",
+
+  "LCL_PRD-2394-63393-8.comment": "Antenna only Starlink Aviation Kit",
+  "LCL_PRD-2394-63393-8": "",
+
+  "LCL_PRD-2395-45847-13.comment": "Antenna only Starlink Aviation Kit. Contains the following parts:\n- 1x 06603000-501 Antenna\n- 1x 01639727-503 Power Supply\n- 1x 01687325-625 25m POE to Bulkhead Cable\n- 1x 01645978-601 Terminal Block HP PSU Cable\n- 1x 01612129-620 30m PSU to RJ45 Cable ",
+  "LCL_PRD-2395-45847-13": "",
+
+  "LCL_INVT-1347-39976-6.comment": "Starlink Business is immediately available at your address. No contracts, 30-day trial, delivery in 1-2 weeks. <Details><summary><u>Learn More about Starlink Business</u></summary><ul><li>2 TB of Priority Access, which includes faster speeds (40-220 Mbps download, 8-25 Mbps upload) & network priority.</li> <li>Publicly routable IPv4 address</li> <li>Dedicated priority support</li> <li>Enterprise dashboard for remote monitoring & network management</li> <li>Unlimited service locations. Order your first Starlink on this page; once complete, you can add locations on your account portal</li></ul><a href=\"https://starlink.typeform.com/to/z5eGaaZ1\"target=\\\"_blank\\\">Give Feedback</a>, <a href=\"https://support.starlink.com/topic?category=26&category=34\" target=\"_blank\" rel=\"noopener noreferrer\">visit Support</a> or <a href=\"https://starlink.typeform.com/to/mLiTd6pK\" target=\"_blank\" rel=\"noopener noreferrer\">request a Sales Consultation</a></details>",
+  "LCL_INVT-1347-39976-6.existing": "</br>Starlink Business está disponible inmediatamente en su dirección. Prueba de 30 días, sin contratos, con entrega en 1-2 semanas. <Details><summary><u>Más información sobre Starlink Business</u></summary><ul><li>2 TB de acceso prioritario, que incluye velocidades más rápidas (descarga de 40-220 Mbps, carga de 8-25 Mbps) y prioridad de red, y acceso básico ilimitado. Esta política entrará en vigor en abril de 2023.</li> <li>Dirección IPv4 enrutable públicamente</li> <li>Asistencia prioritaria dedicada</li> <li>Panel para empresas para supervisión y gestión de redes de manera remota</li> <li>Ubicaciones de servicio ilimitadas. Solicite su primer Starlink en esta página; una vez que complete este paso, puede agregar ubicaciones en el portal de su cuenta</li></ul><a href=\"https://starlink.typeform.com/to/z5eGaaZ1\"target=\\\"_blank\\\">Brindar comentarios</a>, <a href=\"https://support.starlink.com/topic?category=26&category=34\" target=\"_blank\" rel=\"noopener noreferrer\">visitar Soporte</a> o <a href=\"https://starlink.typeform.com/to/mLiTd6pK\" target=\"_blank\" rel=\"noopener noreferrer\">solicitar una Consulta de ventas</a></details>",
+  "LCL_INVT-1347-39976-6": "</br>Starlink Business está disponible inmediatamente en su dirección. Prueba de 30 días, sin contratos, con entrega en 1-2 semanas. <Details><summary><u>Más información sobre Starlink Business</u></summary><ul><li>Acceso prioritario, que incluye velocidades más rápidas (50-200 Mbps) y prioridad de red, y acceso básico ilimitado. Esta política entrará en vigor en abril de 2023.</li> <li>Dirección IPv4 enrutable públicamente</li> <li>Asistencia prioritaria dedicada</li> <li>Panel para empresas para supervisión y gestión de redes de manera remota</li> <li>Ubicaciones de servicio ilimitadas Solicite su primer Starlink en esta página; una vez que complete este paso, puede agregar ubicaciones en el portal de su cuenta</li></ul><a href=\"https://starlink.typeform.com/to/XXB75XAz\"target=\\\"_blank\\\">Regístrese para recibir actualizaciones y enviar comentarios</a> o <a href=\"https://support.starlink.com/topic?category=26&category=34\" target=\"_blank\" rel=\"noopener noreferrer\">visite Asistencia técnica</a>.",
+
+  "LCL_CPDM-35943-60285-21.comment": "Commercial Mobile",
+  "LCL_CPDM-35943-60285-21": "",
+
+  "LCL_SUP-1225-70010-2.comment": "The Starlink Kit is designed for self-install. Starlink does not perform installations directly, however, Starlink maintains a list of recommended third-party installers in France, Italy, Germany, and Switzerland [here](https://support.starlink.com/?topic=de8314d4-0896-145d-43cb-541d9c17808d). If you are not located close to a recommended third-party installer, we have had customers find success working with contractors in their local area that have experience with roof and external wall installations. Everything else for getting online, the Starlink will do automatically (boot up, connect, find satellites, orient itself). \n\n| Terminal | Guides |\n| :--------: | -------- | \n|![Starlink_High_Performance](/public-files/HP_500x500.png \"=200\") |<ul><li>[Set Up Guide (PDF)](https://api.starlink.com/public-files/StarlinkInstallGuide_Business_English.pdf)<li>[Starlink Accessory Guide (PDF)](https://api.starlink.com/public-files/Accessories_Guide_High_Performance.pdf)\n| ![Starlink_V2](/public-files/Starlink_Rectangular_500x500.png \"=200\") |<ul> <li>[Set Up Guide (PDF)](https://api.starlink.com/public-files/StarlinkInstallGuide_Rectangular.pdf)</li><li>[Starlink Accessories Guide (PDF)](https://api.starlink.com/public-files/Accessories_Guide_Rectangular.pdf)  </li></ul> |\n| ![Starlink_V1](/public-files/Circular_500x500.png \"=200\")  | <ul><li>[Set Up Guide (PDF)](https://api.starlink.com/public-files/StarlinkInstallGuide_Circular.pdf)</li><li>[Starlink Accessories Guide (PDF)](https://api.starlink.com/public-files/Accessories_Guide_Circular.pdf) </li></ul> |\n\nRelated installation Questions: \n\n[Find your recommended Starlink installer.](https://support.starlink.com/?topic=de8314d4-0896-145d-43cb-541d9c17808d)\n\t\n[Where should I install my Starlink?](https://support.starlink.com/?topic=5aec169f-4cbb-72a1-60eb-14a49cbd2858)\n\n[I live in an area with a lot of trees - can I use Starlink?](https://support.starlink.com/?topic=3d64ae1d-af6c-5730-e77d-bc3e19d11cae)\n\n[Why do I need a clear “field of view” to use Starlink?](https://support.starlink.com/?topic=4badc520-cf8e-b3aa-dd49-b731686d5bf1)\n\n\n\n",
+  "LCL_SUP-1225-70010-2.existing": "Starlink no cuenta con instaladores recomendados en este momento. Sin embargo, hemos tenido clientes que han tenido éxito trabajando con contratistas en su área local que tienen experiencia con instalaciones de techos y paredes externas. Todo lo demás para obtener conectividad, el Starlink lo hará automáticamente (arrancar, conectarse, encontrar satélites, orientarse). \n\n| Terminal | Guías |\n| :--------: | -------- | \n|![Starlink_Alto_rendimiento](/public-files/HP_500x500.png \"=200\") |<ul><li>[Guía de configuración (PDF)](https://api.starlink.com/public-files/StarlinkInstallGuide_Business_English.pdf)<li>[Guía de accesorios de Starlink (PDF)](https://api.starlink.com/public-files/Accessories_Guide_High_Performance.pdf)\n| ![Starlink_V2](/public-files/Starlink_Rectangular_500x500.png \"=200\") |<ul> <li>[Guía de configuración (PDF)](https://api.starlink.com/public-files/StarlinkInstallGuide_Rectangular.pdf)</li><li>[Guía de accesorios de Starlink (PDF)](https://api.starlink.com/public-files/Accessories_Guide_Rectangular.pdf)  </li></ul> |\n| ![Starlink_V1](/public-files/Circular_500x500.png \"=200\")  | <ul><li>[Guía de configuración (PDF)](https://api.starlink.com/public-files/StarlinkInstallGuide_Circular.pdf)</li><li>[Guía de accesorios de Starlink (PDF)](https://api.starlink.com/public-files/Accessories_Guide_Circular.pdf) </li></ul> |\n\nPreguntas relacionadas con la instalación: \n\n[¿Dónde debería instalar el Starlink?](https://support.starlink.com/?topic=5aec169f-4cbb-72a1-60eb-14a49cbd2858)\n\n[Vivo en un área con muchos árboles, ¿puedo usar Starlink?](https://support.starlink.com/?topic=3d64ae1d-af6c-5730-e77d-bc3e19d11cae)\n\n[¿Por qué necesito un “campo de visión” despejado para usar Starlink?](https://support.starlink.com/?topic=4badc520-cf8e-b3aa-dd49-b731686d5bf1)\n\n\n\n",
+  "LCL_SUP-1225-70010-2": "",
+
+  "LCL_CPDM-36188-79949-40.comment": "Business 6TB",
+  "LCL_CPDM-36188-79949-40": "",
+
+  "LCL_CPDM-36198-99399-42.comment": "Business 2TB",
+  "LCL_CPDM-36198-99399-42": "",
+
+  "LCL_CPDM-36206-15391-12.comment": "6TB",
+  "LCL_CPDM-36206-15391-12": "",
+
+  "LCL_CPDM-36216-45140-8.comment": "2TB",
+  "LCL_CPDM-36216-45140-8": "",
+
+  "LCL_CPDM-36218-30406-9.comment": "Business 6TB",
+  "LCL_CPDM-36218-30406-9": "",
+
+  "LCL_CPDM-36226-80218-14.comment": "1TB",
+  "LCL_CPDM-36226-80218-14": "",
+
+  "LCL_CPDM-36228-12375-15.comment": "Business 2TB",
+  "LCL_CPDM-36228-12375-15": "",
+
+  "LCL_CPDM-36236-67800-17.comment": "6TB",
+  "LCL_CPDM-36236-67800-17": "",
+
+  "LCL_CPDM-36238-33602-12.comment": "Business 1TB",
+  "LCL_CPDM-36238-33602-12": "",
+
+  "LCL_CPDM-36241-60702-7.comment": "1TB",
+  "LCL_CPDM-36241-60702-7": "",
+
+  "LCL_CPDM-36243-48780-21.comment": "Business 2TB",
+  "LCL_CPDM-36243-48780-21": "",
+
+  "LCL_CPDM-36246-18798-30.comment": "2TB",
+  "LCL_CPDM-36246-18798-30": "",
+
+  "LCL_CPDM-36248-21615-14.comment": "Business 6TB",
+  "LCL_CPDM-36248-21615-14": "",
+
+  "LCL_CPDM-36251-61254-11.comment": "6TB",
+  "LCL_CPDM-36251-61254-11": "",
+
+  "LCL_CPDM-36253-56012-9.comment": "Business 1TB",
+  "LCL_CPDM-36253-56012-9": "",
+
+  "LCL_CPDM-36256-83383-23.comment": "1TB",
+  "LCL_CPDM-36256-83383-23": "",
+
+  "LCL_CPDM-36258-16743-21.comment": "Business 2TB",
+  "LCL_CPDM-36258-16743-21": "",
+
+  "LCL_CPDM-36261-96436-22.comment": "2TB",
+  "LCL_CPDM-36261-96436-22": "",
+
+  "LCL_CPDM-36263-52020-5.comment": "Business 6TB",
+  "LCL_CPDM-36263-52020-5": "",
+
+  "LCL_CPDM-36266-22914-17.comment": "6TB",
+  "LCL_CPDM-36266-22914-17": "",
+
+  "LCL_CPDM-36271-54305-12.comment": "1TB",
+  "LCL_CPDM-36271-54305-12": "",
+
+  "LCL_CPDM-36268-88840-29.comment": "Business 1TB",
+  "LCL_CPDM-36268-88840-29": "",
+
+  "LCL_CPDM-36273-94225-19.comment": "Business 2TB",
+  "LCL_CPDM-36273-94225-19": "",
+
+  "LCL_CPDM-36276-15616-19.comment": "2TB",
+  "LCL_CPDM-36276-15616-19": "",
+
+  "LCL_CPDM-36281-57839-28.comment": "6TB",
+  "LCL_CPDM-36281-57839-28": "",
+
+  "LCL_CPDM-36278-93704-25.comment": "Business 6TB",
+  "LCL_CPDM-36278-93704-25": "",
+
+  "LCL_CPDM-36283-94189-29.comment": "Business 1TB",
+  "LCL_CPDM-36283-94189-29": "",
+
+  "LCL_CPDM-36286-80104-14.comment": "1TB",
+  "LCL_CPDM-36286-80104-14": "",
+
+  "LCL_CPDM-36288-12634-19.comment": "Business 2TB",
+  "LCL_CPDM-36288-12634-19": "",
+
+  "LCL_CPDM-36291-94168-25.comment": "2TB",
+  "LCL_CPDM-36291-94168-25": "",
+
+  "LCL_CPDM-36293-32527-18.comment": "Business 6TB",
+  "LCL_CPDM-36293-32527-18": "",
+
+  "LCL_CPDM-36296-52200-11.comment": "6TB",
+  "LCL_CPDM-36296-52200-11": "",
+
+  "LCL_CPDM-36298-11030-9.comment": "Business 1TB",
+  "LCL_CPDM-36298-11030-9": "",
+
+  "LCL_CPDM-36301-32255-6.comment": "1TB",
+  "LCL_CPDM-36301-32255-6": "",
+
+  "LCL_CPDM-36303-83284-16.comment": "Business 1TB",
+  "LCL_CPDM-36303-83284-16": "",
+
+  "LCL_CPDM-36306-60328-13.comment": "1TB",
+  "LCL_CPDM-36306-60328-13": "",
+
+  "LCL_CPDM-36308-93387-26.comment": "Business 2TB",
+  "LCL_CPDM-36308-93387-26": "",
+
+  "LCL_CPDM-36311-11752-6.comment": "2TB",
+  "LCL_CPDM-36311-11752-6": "",
+
+  "LCL_CPDM-36313-52558-17.comment": "Business 6TB",
+  "LCL_CPDM-36313-52558-17": "",
+
+  "LCL_CPDM-36316-73976-27.comment": "6TB",
+  "LCL_CPDM-36316-73976-27": "",
+
+  "LCL_CPDM-36318-55278-24.comment": "Business 1TB",
+  "LCL_CPDM-36318-55278-24": "",
+
+  "LCL_CPDM-36321-94907-20.comment": "1TB",
+  "LCL_CPDM-36321-94907-20": "",
+
+  "LCL_CPDM-36323-19295-19.comment": "Business 2TB",
+  "LCL_CPDM-36323-19295-19": "",
+
+  "LCL_CPDM-36326-26508-17.comment": "2TB",
+  "LCL_CPDM-36326-26508-17": "",
+
+  "LCL_CPDM-36191-36499-27.comment": "6TB",
+  "LCL_CPDM-36191-36499-27": "",
+
+  "LCL_CPDM-36211-75638-18.comment": "1TB",
+  "LCL_CPDM-36211-75638-18": "",
+
+  "LCL_CPDM-36223-44050-5.comment": "Business 1TB",
+  "LCL_CPDM-36223-44050-5": "",
+
+  "LCL_CPDM-36231-79730-17.comment": "2TB",
+  "LCL_CPDM-36231-79730-17": "",
+
+  "LCL_CPDM-36233-51524-10.comment": "Business 6TB",
+  "LCL_CPDM-36233-51524-10": "",
+
+  "LCL_SUP-1497-48952-33.comment": "Starlink currently has recommended third-party installers in France, Italy, Germany and Switzerland. [Click here](https://www.google.com/maps/d/u/0/edit?mid=1_bxFsYsRWnz9X0iOmP-BNI-31A3ypxA&usp=sharing) to find and contact the nearest recommended installer to setup your Starlink kit. If no installers are located near you, we recommend to contact installers and contractors in your local area who have experience with roof and external wall installations.\n\nThese recommended installers are independent from Starlink. You are responsible for reaching out and contracting with the third-party installer directly. Starlink shall not be responsible, nor does Starlink assume any liability for the pricing, contract terms, quality of work, errors, omissions, or misrepresentations made by the installers, any alternations made to or damage that may occur to your property, as a result of the installation.\n\nIf you are an installer in France, Italy or Germany interested in being part of our installer network, you can apply by filling out [this form](https://starlink.typeform.com/to/rMPzWVhS).",
+  "LCL_SUP-1497-48952-33": "",
+
+  "LCL_SUP-1142-53438-15.comment": "You can return any mount or accessory purchased from the Starlink Shop within 30 days of receipt for a full refund of your payment. If you are outside the 30 day window, you are unable to return your order.\n\n1. Log into your Starlink account at Starlink.com.\n2. In the \"Your Orders\" section, click \"View\" next to the order you would like to return.\n3. On the left side of the page, click \"Return\", and a pop up window will appear.\n4.  Click \"Select\" next to the item you would like to return.\n5. Click \"Process Return\".\n6. Click ''Return Another Item\", if you would like to return another item from the same order.\n\n\nSeparate emails containing the prepaid return shipping label for each item and instructions will be sent to the email address on file. After completing your return request, a refund will be initiated for each item. Please allow up to 10 business days for the refund to appear in the account of the payment method used. \n\nThis process does not apply to the Circular Starlink hardware. \n\n**Customers outside of the U.S. or U.S. customers having trouble initiating the return:**  Please follow the instructions below:\n\n1. Click on the thumbs down on the bottom of this topic to reach out to Support within 30 days of receiving your order.\n2. In your message include the order number along with the name of the item you would like to return, and we will assist you with further steps for the return.",
+  "LCL_SUP-1142-53438-15.existing": "Puede devolver cualquier soporte o accesorio comprado en la tienda de Starlink en un plazo de 30 días desde la recepción para obtener un reembolso completo de su pago. Si se encuentra fuera del plazo de 30 días, no puede devolver su pedido.\n\n1. Inicie sesión en su cuenta de Starlink en Starlink.com.\n2. En la sección “Sus pedidos”, haga clic en “Ver” junto al pedido que desea devolver.\n3. En el lado izquierdo de la página, haga clic en “Devolver” y aparecerá una ventana emergente.\n4.  Haga clic en “Seleccionar” junto al artículo que desea devolver.\n5. Haga clic en “Procesar devolución”.\n6. Haga clic en “Devolver otro artículo”, si desea devolver otro artículo del mismo pedido.\n\n\nSe enviarán correos electrónicos separados con la etiqueta de envío de devolución prepagada para cada artículo y las instrucciones a la dirección de correo electrónico registrada. Después de completar su solicitud de devolución, se iniciará un reembolso por cada artículo. Espere hasta 10 días laborables para que el reembolso aparezca en la cuenta del método de pago utilizado. \n\nEste proceso no se aplica al equipo Starlink circular. \n\n**Si usted es cliente fuera de los EE. UU.**, siga las instrucciones a continuación para iniciar la devolución: \n\n1. Haga clic en el pulgar hacia abajo que se encuentra en la parte inferior de este tema para ponerse en contacto con el servicio de Asistencia técnica en un plazo de 30 días desde la recepción del pedido.\n2. Confirme en su mensaje qué artículo desea devolver y le ayudaremos con los pasos adicionales para la devolución.",
+  "LCL_SUP-1142-53438-15": "",
+
+  "LCL_PRD-2400-26735-95.comment": "Starlink Maritime Subscription - 1TB",
+  "LCL_PRD-2400-26735-95": "",
+
+  "LCL_PRD-2401-49073-96.comment": "Starlink for Boats & Ships",
+  "LCL_PRD-2401-49073-96": "",
+
+  "LCL_PRD-2402-59757-7.comment": "Starlink for Maritime",
+  "LCL_PRD-2402-59757-7": "",
+
+  "LCL_PRD-2405-50798-6.comment": "Starlink Maritime Subscription - 1TB",
+  "LCL_PRD-2405-50798-6": "",
+
+  "LCL_PRD-2407-95996-17.comment": "Starlink for Maritime",
+  "LCL_PRD-2407-95996-17": "",
+
+  "LCL_PRD-2406-32941-97.comment": "Starlink for Boats & Ships",
+  "LCL_PRD-2406-32941-97": "",
+
+  "LCL_PRD-2410-98474-5.comment": "Starlink Maritime Subscription - 1TB",
+  "LCL_PRD-2410-98474-5": "",
+
+  "LCL_PRD-2411-41087-94.comment": "Starlink for Boats & Ships",
+  "LCL_PRD-2411-41087-94": "",
+
+  "LCL_PRD-2412-34476-99.comment": "Starlink for Maritime",
+  "LCL_PRD-2412-34476-99": "",
+
+  "LCL_PRD-2415-24441-93.comment": "Starlink Maritime Subscription - 1TB",
+  "LCL_PRD-2415-24441-93": "",
+
+  "LCL_PRD-2420-85284-1.comment": "Starlink Maritime Subscription - 1TB",
+  "LCL_PRD-2420-85284-1": "",
+
+  "LCL_PRD-2417-69933-10.comment": "Starlink for Maritime",
+  "LCL_PRD-2417-69933-10": "",
+
+  "LCL_PRD-2421-44978-7.comment": "Starlink for Boats & Ships",
+  "LCL_PRD-2421-44978-7": "",
+
+  "LCL_PRD-2416-35377-4.comment": "Starlink for Boats & Ships",
+  "LCL_PRD-2416-35377-4": "",
+
+  "LCL_PRD-2422-70782-0.comment": "Starlink for Maritime",
+  "LCL_PRD-2422-70782-0": "",
+
+  "LCL_PRD-2425-73832-2.comment": "Starlink Maritime Subscription - 1TB",
+  "LCL_PRD-2425-73832-2": "",
+
+  "LCL_PRD-2426-65491-5.comment": "Starlink for Boats & Ships",
+  "LCL_PRD-2426-65491-5": "",
+
+  "LCL_PRD-2427-56161-0.comment": "Starlink for Maritime",
+  "LCL_PRD-2427-56161-0": "",
+
+  "LCL_CPDM-36178-18826-26.comment": "Business 1TB",
+  "LCL_CPDM-36178-18826-26": "",
+
+  "LCL_CPDM-36181-65444-18.comment": "1TB",
+  "LCL_CPDM-36181-65444-18": "",
+
+  "LCL_CPDM-36183-49556-26.comment": "Business 2TB",
+  "LCL_CPDM-36183-49556-26": "",
+
+  "LCL_CPDM-36186-42889-31.comment": "2TB",
+  "LCL_CPDM-36186-42889-31": "",
+
+  "LCL_CPDM-36193-30325-11.comment": "Business 1TB",
+  "LCL_CPDM-36193-30325-11": "",
+
+  "LCL_CPDM-36196-93187-29.comment": "1TB",
+  "LCL_CPDM-36196-93187-29": "",
+
+  "LCL_CPDM-36201-61229-8.comment": "2TB",
+  "LCL_CPDM-36201-61229-8": "",
+
+  "LCL_CPDM-36203-76884-23.comment": "Business 6TB",
+  "LCL_CPDM-36203-76884-23": "",
+
+  "LCL_CPDM-36208-15055-11.comment": "Business 1TB",
+  "LCL_CPDM-36208-15055-11": "",
+
+  "LCL_CPDM-36213-55516-13.comment": "Business 2TB",
+  "LCL_CPDM-36213-55516-13": "",
+
+  "LCL_CPDM-36221-87932-19.comment": "6TB",
+  "LCL_CPDM-36221-87932-19": "",
+
+  "LCL_CPDM-36103-28165-11.comment": "Business 1TB",
+  "LCL_CPDM-36103-28165-11": "",
+
+  "LCL_CPDM-36106-98733-22.comment": "1TB",
+  "LCL_CPDM-36106-98733-22": "",
+
+  "LCL_CPDM-36108-58032-12.comment": "Business 2TB",
+  "LCL_CPDM-36108-58032-12": "",
+
+  "LCL_CPDM-36111-32824-7.comment": "2TB",
+  "LCL_CPDM-36111-32824-7": "",
+
+  "LCL_CPDM-36113-54700-6.comment": "Business 6TB",
+  "LCL_CPDM-36113-54700-6": "",
+
+  "LCL_CPDM-36116-48777-26.comment": "6TB",
+  "LCL_CPDM-36116-48777-26": "",
+
+  "LCL_CPDM-36118-55312-11.comment": "Business 1TB",
+  "LCL_CPDM-36118-55312-11": "",
+
+  "LCL_CPDM-36121-62177-12.comment": "1TB",
+  "LCL_CPDM-36121-62177-12": "",
+
+  "LCL_CPDM-36123-30058-7.comment": "Business 2TB",
+  "LCL_CPDM-36123-30058-7": "",
+
+  "LCL_CPDM-36126-58678-28.comment": "2TB",
+  "LCL_CPDM-36126-58678-28": "",
+
+  "LCL_CPDM-36128-33756-20.comment": "Business 6TB",
+  "LCL_CPDM-36128-33756-20": "",
+
+  "LCL_CPDM-36131-92109-11.comment": "6TB",
+  "LCL_CPDM-36131-92109-11": "",
+
+  "LCL_CPDM-36133-13955-15.comment": "Business 1TB",
+  "LCL_CPDM-36133-13955-15": "",
+
+  "LCL_CPDM-36136-90914-18.comment": "1TB",
+  "LCL_CPDM-36136-90914-18": "",
+
+  "LCL_CPDM-36138-28507-19.comment": "Business 2TB",
+  "LCL_CPDM-36138-28507-19": "",
+
+  "LCL_CPDM-36141-28514-11.comment": "2TB",
+  "LCL_CPDM-36141-28514-11": "",
+
+  "LCL_CPDM-36146-37992-26.comment": "6TB",
+  "LCL_CPDM-36146-37992-26": "",
+
+  "LCL_CPDM-36143-89028-20.comment": "Business 6TB",
+  "LCL_CPDM-36143-89028-20": "",
+
+  "LCL_CPDM-36148-75320-15.comment": "Business 1TB",
+  "LCL_CPDM-36148-75320-15": "",
+
+  "LCL_CPDM-36151-11939-15.comment": "1TB",
+  "LCL_CPDM-36151-11939-15": "",
+
+  "LCL_CPDM-36153-74542-16.comment": "Business 2TB",
+  "LCL_CPDM-36153-74542-16": "",
+
+  "LCL_CPDM-36156-53863-22.comment": "2TB",
+  "LCL_CPDM-36156-53863-22": "",
+
+  "LCL_CPDM-36158-79964-34.comment": "Business 6TB",
+  "LCL_CPDM-36158-79964-34": "",
+
+  "LCL_CPDM-36161-10273-6.comment": "6TB",
+  "LCL_CPDM-36161-10273-6": "",
+
+  "LCL_CPDM-36163-59654-24.comment": "Business 1TB",
+  "LCL_CPDM-36163-59654-24": "",
+
+  "LCL_CPDM-36166-55236-19.comment": "1TB",
+  "LCL_CPDM-36166-55236-19": "",
+
+  "LCL_CPDM-36168-29122-16.comment": "Business 2TB",
+  "LCL_CPDM-36168-29122-16": "",
+
+  "LCL_CPDM-36171-30543-9.comment": "2TB",
+  "LCL_CPDM-36171-30543-9": "",
+
+  "LCL_CPDM-36173-47914-21.comment": "Business 6TB",
+  "LCL_CPDM-36173-47914-21": "",
+
+  "LCL_CPDM-36176-44807-22.comment": "6TB",
+  "LCL_CPDM-36176-44807-22": "",
+
+  "LCL_CPDM-36328-89539-32.comment": "Business 6TB",
+  "LCL_CPDM-36328-89539-32": "",
+
+  "LCL_CPDM-36338-54800-16.comment": "Business 2TB",
+  "LCL_CPDM-36338-54800-16": "",
+
+  "LCL_CPDM-36348-58742-26.comment": "Business 1TB",
+  "LCL_CPDM-36348-58742-26": "",
+
+  "LCL_CPDM-36331-71671-14.comment": "6TB",
+  "LCL_CPDM-36331-71671-14": "",
+
+  "LCL_CPDM-36343-51377-18.comment": "Business 6TB",
+  "LCL_CPDM-36343-51377-18": "",
+
+  "LCL_CPDM-36356-27383-22.comment": "2TB",
+  "LCL_CPDM-36356-27383-22": "",
+
+  "LCL_CPDM-36333-12122-2.comment": "Business 1TB",
+  "LCL_CPDM-36333-12122-2": "",
+
+  "LCL_CPDM-36346-79957-35.comment": "6TB",
+  "LCL_CPDM-36346-79957-35": "",
+
+  "LCL_CPDM-36361-67612-17.comment": "6TB",
+  "LCL_CPDM-36361-67612-17": "",
+
+  "LCL_CPDM-36336-32662-16.comment": "1TB",
+  "LCL_CPDM-36336-32662-16": "",
+
+  "LCL_CPDM-36353-89734-27.comment": "Business 2TB",
+  "LCL_CPDM-36353-89734-27": "",
+
+  "LCL_CPDM-36341-48191-16.comment": "2TB",
+  "LCL_CPDM-36341-48191-16": "",
+
+  "LCL_CPDM-36351-26693-20.comment": "1TB",
+  "LCL_CPDM-36351-26693-20": "",
+
+  "LCL_CPDM-36358-34894-29.comment": "Business 6TB",
+  "LCL_CPDM-36358-34894-29": "",
+
+  "PRD_INVT-1195-47870-10.comment": "High-speed, low-latency broadband internet to rural and remote businesses across the globe. Starting at {{ subscriptionPrice }}/mo with a one-time hardware cost of {{ kitPrice }}.",
+  "PRD_INVT-1195-47870-10": "",
+
+  "PRD_INVT-1094-89475-15.comment": "High-speed, low-latency broadband internet to rural and remote businesses across the globe.<br>Starting at {{ subscriptionPrice }}/mo with a one-time hardware cost of {{ kitPrice }}.",
+  "PRD_INVT-1094-89475-15": "",
+
+  "LCL_SUP-1106-37974-22.comment": "**Examples that lead to intermittent connection:**\n- Obstructions\n- Installation outside of service address\n- Improper Starlink dish installation and/or router placement\n- Hardware & cable damage\n- 3rd party devices\n\n\n-----\n**Recommended steps:**\n\n**1: Visit the Starlink App and check if any alerts have appeared:**\n\n* If there are no alerts banners displaying in the Starlink App, proceed to step 2.\n    \n\n**2: Reboot router and confirm if all or some devices are experiencing intermittent service:**\n\n* If some devices, then move the device closer to the router and see if the issue continues. If continues, proceed to step 3.\n* If all devices, then proceed to step 3.\n\n\n\t\t\n**3: Inspect hardware for any visible damage:**\n* Check cables for nicks, cuts, and hard bends. If jammed in any doorways and window panes, this can result in degraded service.\n* Check ports for any debris or damage.\n* If no damage was found, proceed to step 4.\n    \n    \n\n**4: Disconnect any 3rd party hardware in your Starlink setup:**\n* If the disconnections do not continue, then the 3rd party hardware used in your setup is the root cause for the experienced disconnections. We are unable to guarantee service quality performance with 3rd party hardware.\n* If the disconnections continue, proceed to step 5.\n\n\n\n**5: Confirm the Starlink dish is securely installed where the mast will not sway with the wind:**\n* If the Starlink dish installation allows for swaying or movement of the Starlink mast, degraded service is expected. Please visit shop.starlink.com to view alternative mount options.\n*  If the Starlink dish has a secure installation, proceed to step 6.\n\n\n\n**6: Click the thumbs down icon to submit a support ticket with the following information:**\n1. If possible, attach clear photos of your Starlink dish installation, cable routing, router placement, and any other photos you feel may be helpful to resolve your issue.\n2. Is your Starlink power connected directly to a wall outlet? If not, include how you are powering your Starlink.\n3. When do you first recall experiencing the disconnections?\n4. Are the disconnections only present while using specific programs/applications?\n5. Are the disconnections only present during certain times of the day or constant throughout the day?\n\n",
+  "LCL_SUP-1106-37974-22.existing": "**Ejemplos que conducen a una conexión intermitente:**\n- Obstrucciones\n- Instalación fuera de la dirección de servicio\n- Instalación incorrecta de la antena de Starlink y/o colocación incorrecta del enrutador\n- Daño del equipo y los cables\n- Dispositivos de terceros\n\n\n-----\n**Pasos recomendados:**\n\n**1: Ingrese en la aplicación Starlink y vea si ha aparecido alguna alerta:**\n\n* Si no se muestran alertas en la aplicación Starlink, proceda al paso 2.\n    \n\n**2: Reinicie el enrutador y confirme si todos los positivos tienen servicio intermitente o solo algunos:**\n\n* Si son solo algunos dispositivos, acerque el dispositivo al enrutador para ver si el problema continúa. Si continúa, proceda al paso 3.\n* Si son todos los dispositivos, proceda al paso 3.\n\n\n\t\t\n**3: Inspeccione el equipo para detectar cualquier daño visible:**\n* Revise los cables para detectar muescas, cortes o cables doblados. Los cables atorados en puertas o ventanas pueden provocar una disminución del servicio.\n* Revise los puertos para detectar desechos o daños.\n* Si no se encuentran daños, proceda al paso 4.\n    \n    \n\n**4: Desconecte los equipos de terceros en la configuración de su Starlink:**\n* Si las desconexiones no continúan, entonces el equipo de terceros utilizado en su configuración es el origen de las desconexiones. No podemos garantizar la calidad del servicio con equipos de terceros.\n* Si las desconexiones continúan, proceda al paso 5.\n\n\n\n**5: Confirme que la antena Starlink se encuentre instalada de forma segura de modo tal que el mástil no se balancee con el viento:**\n* Si la instalación de la antena Starlink permite que el mástil se balancee o se mueva, cabe esperar una disminución del servicio. Ingrese en shop.starlink.com para ver las opciones de montaje alternativas.\n* Si la antena Starlink tiene una instalación segura, proceda al paso 6.\n\n\n\n**6: Haga clic en el ícono del pulgar hacia abajo para enviar una solicitud de asistencia técnica con la siguiente información:**\n1. ¿La fuente de alimentación de su Starlink está conectada directamente a un tomacorriente de pared? De no ser así, indique cómo llega la corriente a su Starlink.\n2. ¿Cuándo comenzó a experimentar desconexiones por primera vez?\n3. ¿Las desconexiones solo ocurren mientras utiliza programas específicos/aplicaciones específicas?\n4. ¿Las desconexiones solo ocurren durante determinados momentos del día o constantemente durante todo el día?\n\n",
+  "LCL_SUP-1106-37974-22": "",
+
+  "LCL_SUP-1094-38265-22.comment": "1. On the Starlink App, use the \"Visibility\" map to identify the location of your obstructions\n2.  Try to move Starlink to a new location, remove the obstruction, or mount at a more elevated location, like a roof, pole, or wall. For best results, Starlink should be installed as close to vertical as possible. Mount solutions are available on the [Starlink Shop](https://shop.starlink.com/).\n3.  To estimate how obstructed a new potential location is, use the \"Check for Obstructions” tool under \"Visibility.\" Follow the guided experience to scan Starlink's field of view using the camera.\n    * Note: if you move locations, the \"Visibility” map could take up to 12 hours to populate.\n    * Repeat as needed in multiple locations.\n\nFor additional help, contact Support for a consultation. If possible, attach clear photos of your Starlink dish installation and surrounding area, and any other photos you feel may be helpful to resolve your issue.",
+  "LCL_SUP-1094-38265-22.existing": "1. En la aplicación Starlink, use el mapa de \"Visibilidad\" para identificar donde se encuentran sus obstrucciones\n2.  Intente mover Starlink a una nueva ubicación, quitar la obstrucción, o montarlo en una ubicación más elevada como un techo, poste o pared. Para obtener los mejores resultados, Starlink debe ser instalada lo más cerca posible de la vertical. Puede encontrar opciones de montaje disponibles en la [Tienda de Starlink] (https://shop.starlink.com/).\n3.  Para estimar qué tan obstruida está una nueva ubicación potencial, use la herramienta \"Comprobar si hay obstrucciones\" que está en \"Visibilidad\". Siga la guía para escanear el campo de visión de Starlink con la cámara.\n    * Nota: si se mueve a una ubicación diferente, el mapa de \"Visibilidad\" podría tardar hasta 12 horas en mostrarse completo.\n    * Repita según sea necesario en varias ubicaciones.\n\nSi necesita ayuda adicional, póngase en contacto con el servicio de asistencia técnica para hacer una consulta.",
+  "LCL_SUP-1094-38265-22": "",
+
+  "LCL_CPDM-36593-86338-30.comment": "v3 Kit",
+  "LCL_CPDM-36593-86338-30": "",
+
+  "LCL_INV-NLReverseChargeDisclaimerForServices.comment": "VAT reverse charged – following article 44 and 196 Directive 2006/112/EC",
+  "LCL_INV-NLReverseChargeDisclaimerForServices": "",
+
+  "LCL_INV-NLReverseChargeDisclaimerForGoods.comment": "Intracommunity supply of goods, article 138 (1) VAT directive 2006/112",
+  "LCL_INV-NLReverseChargeDisclaimerForGoods": "",
+
+  "LCL_SUP-1499-86181-31.comment": "You can activate your Starlink or add a service line using the Starlink [dashboard](www.starlink.com/account/dashboard). Log into your Starlink account, select the \"Dashboard\" tab and click the \"+\"  sign to \"Add a Service Line\". Input the requested information.\n\nYou will need to specify the service line nickname, subscription type, service address and Starlink serial number. Please note that allowable subscription products must be pre-loaded to your account by customer support or your account manager.\n\nOnce these steps are complete, your Starlink  will be active. You will be billed for the associated subscription on your next bill.\n\nYou can review and manage your new service line in the \"Dashboard\" tab under \"Manage\". The \"Manage\" option allows you to remove/add a Starlink and deactivate/cancel a service line.",
+  "LCL_SUP-1499-86181-31": "",
+
+  "LCL_SUP-1498-71702-23.comment": "How do I activate my Starlink/service line using the dashboard?",
+  "LCL_SUP-1498-71702-23": "",
+
+  "LCL_SUP-1500-27838-18.comment": "How can I activate a Starlink using API? ",
+  "LCL_SUP-1500-27838-18": "",
+
+  "LCL_SUP-1501-45053-8.comment": "To activate a Starlink via API follow the steps below: \n\n1. POST an address \n2. GET available subscription products\n3. POST a service line\n4. GET a user terminal ID from the paginated list (ensure this is the exact terminal being used at the address indicated in step 1) \n5. POST a user terminal ID to the service line \n\n\nAPI access is provided to larger business customers to manage accounts, user terminals, and service.\n\n",
+  "LCL_SUP-1501-45053-8": "",
+
+  "LCL_CNC-1502-53906-79.comment": "I need more priority data options",
+  "LCL_CNC-1502-53906-79": "",
+
+  "LCL_SUP-1104-60678-17.comment": "**Note: We are currently experiencing a surge in demand for Starlink. Deliveries may take 2-4 weeks, however certain countries (i.e. Brazil, Philippines) may experience longer delivery timelines. . We will continue working to get your order shipped out as soon as possible. Please continue to watch your order summary for status. Thank you for your patience and for your support!** \n\nPlease visit your [Account page](https://www.starlink.com/account/home) for the most up-to-date estimate on when you can expect your order to be fulfilled. When your order is ready to ship, you will receive an email from the Starlink team and you will have 7 days to complete your order, otherwise it will be automatically cancelled and fully refunded. \n\nWithin each coverage area, orders are fulfilled on a first-come, first-served basis. Our ability to provide service is driven by our network’s capacity, country and regional licensing and regulations, and Starlink Kit production.\n\nOur network is limited in the number of users we can accommodate in any one area, based on the design of our low Earth orbit satellite constellation. This means that in areas with high demand, there will be longer wait times for some customers. Fulfilling more orders in these areas will require additional satellite launches and network improvements. As soon as someone moves out or cancels Starlink in a full area, we immediately replace them with the next person in line. \n\n[When can I expect my order to ship?](https://support.starlink.com/?topic=fee97ae9-fa93-82a5-c385-aaf2426938ae)\n\n[Why does my order status say Preparing Shipment?](https://support.starlink.com/?topic=2777a3b9-3bc8-b007-b476-8858465f683d)",
+  "LCL_SUP-1104-60678-17.existing": "**Nota: actualmente estamos experimentando un aumento en la demanda de Starlink, por lo que las entregas tienen una demora de 2 a 4 semanas. Seguiremos trabajando para que su pedido se envíe lo antes posible. Continúe viendo su resumen del pedido para conocer el estado. ¡Gracias por su paciencia y por su apoyo!** \n\nVisite la [página de su cuenta](https://www.starlink.com/account/home) para obtener la estimación más reciente sobre cuándo puede esperar que se complete su pedido. Cuando su pedido esté listo para enviarse, recibirá un correo electrónico del equipo de Starlink y tendrá 7 días para completar su pedido, de lo contrario, se cancelará automáticamente y se reembolsará en su totalidad. \n\nDentro de cada área de cobertura, los pedidos se completan según el orden de recepción. Nuestra capacidad para ofrecer el servicio está impulsada por la capacidad de nuestra red, licencias y regulaciones del país y regionales y la producción del kit de Starlink.\n\nNuestra red está limitada al número de usuarios que podemos alojar en cualquier área, según el diseño de nuestra constelación de satélites de órbita terrestre baja. Esto significa que en áreas con mucha demanda, se producirán tiempos de espera más prolongados para algunos clientes. Completar más pedidos en estas áreas requerirá lanzamientos de satélites adicionales y mejoras en la red. Tan pronto como alguien se mude o cancele Starlink en un área llena, inmediatamente los reemplazamos con la siguiente persona en espera. \n\n[¿Cuándo se despachará mi pedido?](https://support.starlink.com/?topic=fee97ae9-fa93-82a5-c385-aaf2426938ae)\n\n[¿Por qué el estado de mi pedido dice Preparando envío?](https://support.starlink.com/?topic=2777a3b9-3bc8-b007-b476-8858465f683d)",
+  "LCL_SUP-1104-60678-17": "",
+
+  "LCL_PRD-2438-52236-1.comment": "Normalized regional pricing for roam ",
+  "LCL_PRD-2438-52236-1": "",
+
+  "LCL_SUP-1503-15719-16.comment": "API",
+  "LCL_SUP-1503-15719-16": "",
+
+  "LCL_PRD-2436-69306-5.comment": "Subscription - Roam",
+  "LCL_PRD-2436-69306-5": "",
+
+  "LCL_PRD-2437-82644-6.comment": "Normalized regional pricing for roam ",
+  "LCL_PRD-2437-82644-6": "",
+
+  "LCL_PRD-2441-78212-97.comment": "Subscription - Roam",
+  "LCL_PRD-2441-78212-97": "",
+
+  "LCL_PRD-2443-89899-22.comment": "Normalized regional pricing for roam ",
+  "LCL_PRD-2443-89899-22": "",
+
+  "LCL_PRD-2442-59456-7.comment": "Normalized regional pricing for roam ",
+  "LCL_PRD-2442-59456-7": "",
+
+  "LCL_PRD-2444-57299-12.comment": "Roam",
+  "LCL_PRD-2444-57299-12": "",
+
+  "LCL_PRD-2452-95797-16.comment": "Starlink Aviation Router (Block 2)",
+  "LCL_PRD-2452-95797-16": "",
+
+  "LCL_PRD-2453-39331-99.comment": "Starlink Aviation Wi-Fi router in block 2 configuration. ",
+  "LCL_PRD-2453-39331-99": "",
+
+  "LCL_PRD-2454-59702-4.comment": "Starlink Aviation Wi-Fi router in block 2 configuration. ",
+  "LCL_PRD-2454-59702-4": "",
+
+  "LCL_PRD-2457-24261-99.comment": "Starlink Aviation Router (Block 2)",
+  "LCL_PRD-2457-24261-99": "",
+
+  "LCL_PRD-2458-20044-95.comment": "Starlink Aviation Wi-Fi router in block 2 configuration. ",
+  "LCL_PRD-2458-20044-95": "",
+
+  "LCL_PRD-2459-41196-7.comment": "Starlink Aviation Wi-Fi router in block 2 configuration. ",
+  "LCL_PRD-2459-41196-7": "",
+
+  "LCL_PRD-2462-93141-98.comment": "Starlink Aviation Router (Block 2)",
+  "LCL_PRD-2462-93141-98": "",
+
+  "LCL_PRD-2463-17547-5.comment": "Starlink Aviation Wi-Fi router in block 2 configuration. ",
+  "LCL_PRD-2463-17547-5": "",
+
+  "LCL_PRD-2464-46299-12.comment": "Starlink Aviation Wi-Fi router in block 2 configuration. ",
+  "LCL_PRD-2464-46299-12": "",
+
+  "LCL_PRD-2467-91678-16.comment": "Starlink Aviation Router (Block 2)",
+  "LCL_PRD-2467-91678-16": "",
+
+  "LCL_PRD-2468-93787-20.comment": "Wi-Fi router for Starlink Aviation in Block 2 configuration. ",
+  "LCL_PRD-2468-93787-20": "",
+
+  "LCL_PRD-2469-33782-10.comment": "Wi-Fi router for Starlink Aviation in Block 2 configuration. ",
+  "LCL_PRD-2469-33782-10": "",
+
+  "PRD_INVT-1293-29197-11.comment": "<h2 class=\"banner\"> Now Offering Hardware Rentals</h2> \t</p> Rent Starlink hardware for €15/mo or purchase for <span class=\"g-strikethrough\">€450</span> €300, monthly service for €85/mo. High-speed internet from space available throughout Austria",
+  "PRD_INVT-1293-29197-11": "",
+
+  "PRD_INVT-1151-44522-93.comment": "<h2 class=\"banner\"> Now Offering Hardware Rentals</h2> \t</p> Rent Starlink hardware for CHF 15/mo or purchase for <span class=\"g-strikethrough\">CHF 450</span> CHF 300, monthly service for CHF 94/mo. High-speed internet from space available throughout Switzerland.",
+  "PRD_INVT-1151-44522-93": "",
+
+  "PRD_INVT-1074-70575-4.comment": "<h2 class=\"banner\"> Now Offering Hardware Rentals</h2> \t</p> Rent Starlink hardware for €15/mo or purchase for <span class=\"g-strikethrough\">€450</span> €300, monthly service for €50/mo. High-speed internet from space available throughout Italy.",
+  "PRD_INVT-1074-70575-4": "",
+
+  "PRD_INVT-1297-73425-8.comment": "<h2 class=\"banner\"> Now Offering Hardware Rentals</h2> \t</p> Rent Starlink hardware for 15 €/mo or purchase for <span class=\"g-strikethrough\">450 €</span> 300 €, monthly service for 80 €/mo. High-speed internet from space available throughout Belgium.",
+  "PRD_INVT-1297-73425-8": "",
+
+  "LCL_INVT_SIGNUP_TOP_CZ.comment": "Starlink is now offering hardware rentals throughout Czechia. \t<Details><summary><u>Learn More About Starlink Rentals</u></summary><ul> \t<li> Rent Starlink hardware for a one-time 1 230 Kč activation and 370 Kč/mo or purchase for <span class=\"g-strikethrough\">11 000 Kč</span> 7 360 Kč. Starlink service is 1 400 Kč/mo.</li> \t<li> Try Starlink for 30 days and if not satisfied, return the hardware for a full refund of your 1 230 Kč activation, or <span class=\"g-strikethrough\">11 000 Kč</span> 7 360 Kč if purchased. </li> \t<li> There are no long-term contracts, both hardware rental and Starlink service are charged month-to-month.</li> \t<li>Rental customers cannot transfer their hardware to a different Starlink account.</li> \t<li> You may cancel your Starlink service at any time. If cancelled, your service will remain active until the end of the payment period. If you have rented a Starlink Kit, you must return your equipment in good condition within 30 days of service cancellation or you will be charged the full price of the kit.</li> <li>To learn more about Starlink rentals, <a href=\"https://support.starlink.com/?topic=ea2cca85-c95d-595b-06e6-4882ebe915df\"target=\\\"_blank\\\"> Read our FAQ page</a></li>",
+  "LCL_INVT_SIGNUP_TOP_CZ": "",
+
+  "PRD_INVT-1301-83392-98.comment": "<h2 class=\"banner\"> Now Offering Hardware Rentals</h2> \t</p> Rent Starlink hardware for 370 Kč/mo or purchase for <span class=\"g-strikethrough\">11 000 Kč</span> 7 360 Kč, monthly service for 1 400 Kč/mo. High-speed internet from space available throughout Czechia.",
+  "PRD_INVT-1301-83392-98": "",
+
+  "PRD_INVT-1305-61521-92.comment": "<h2 class=\"banner\"> Now Offering Hardware Rentals</h2> \t</p> Rent Starlink hardware for 15 €/mo or purchase for <span class=\"g-strikethrough\">450 €</span> 300 €, monthly service for 60 €/mo. High-speed internet from space available throughout Greece.",
+  "PRD_INVT-1305-61521-92": "",
+
+  "PRD_INVT-1309-55168-6.comment": "<h2 class=\"banner\"> Now Offering Hardware Rentals</h2> \t</p> Rent Starlink hardware for € 15/mo or purchase for <span class=\"g-strikethrough\">450 €</span> 300 €, monthly service for € 85/mo. High-speed internet from space available throughout the Netherlands.",
+  "PRD_INVT-1309-55168-6": "",
+
+  "LCL_INVT_SIGNUP_TERMS_PT.comment": "</br> A Starlink está agora a oferecer alugueres de hardware em Portugal. \t<Details><summary><u>Saiba mais sobre como alugar a Starlink</u></summary><ul> \t<li> Alugue o hardware da Starlink para uma activação única 50 € e 15 €/mês ou compre por <span class=\"g-strikethrough\">450 €</span> 300 €. O serviço Starlink é 65 €/mês.</li> \t<li>Experimente a Starlink durante 30 dias e se não ficar satisfeito, devolva o hardware para um reembolso total da sua activação 50 €, ou <span class=\"g-strikethrough\">450 €</span> 300 € se tiver adquirido.</li> \t<li> Não há contratos a longo prazo, tanto o aluguer de hardware como o serviço Starlink são cobrados mês a mês.</li> \t<li> Os clientes de aluguer de hardware não podem transferir o seu hardware para uma conta Starlink diferente.</li> \t<li> Pode cancelar o seu serviço Starlink em qualquer momento. Se for cancelado, o seu serviço permanecerá activo até ao fim do período de pagamento. Se tiver alugado um Kit Starlink, deverá devolver o seu equipamento em bom estado dentro de 30 dias após o cancelamento do serviço ou ser-lhe-á cobrado o preço total do kit.</li> \t<li> Para saber mais sobre como alugar uma Starlink, <a href=\"https://support.starlink.com/?topic=ea2cca85-c95d-595b-06e6-4882ebe915df\"target=\\\"_blank\\\"> visite a nossa página FAQ.</a></li> \t</br><a href=\"https://www.starlink.com/legal/documents/DOC-1216-45948-76?regionCode=PT\" target=\"_blank\" rel=\"noopener noreferrer\">Social Internet Access Tariff (TSI) Information</a>",
+  "LCL_INVT_SIGNUP_TERMS_PT.existing": "<a href=\"https://www.starlink.com/legal/documents/DOC-1216-45948-76?regionCode=PT\" target=\"_blank\" rel=\"noopener noreferrer\">Información sobre tarifas sociales de acceso a Internet (TSI)</a>",
+  "LCL_INVT_SIGNUP_TERMS_PT": "",
+
+  "LCL_SUP-1461-32685-20.comment": "Customers in select markets can rent Starlink for a one-time activation price and a monthly hardware rental price. Check the online ordering page for price details per country. Renting offers a flexible option to get started with Starlink internet for customers in select countries:\n\n* United Kingdom\n* Ireland\n*  New Zealand\n*  Germany\n*  France\n*  Italy\n*  Switzerland\n*  Austria\n*  Belgium\n*  Czech Republic\n*  Estonia\n*  Greece\n* Netherlands\n* Portugal\n* Spain\n* Isle of Man\n* Guernsey\n* Jersey\n\n Starlink kits may only be rented for the fixed Residential service, and is not available for Business, Maritime, Mobile or Roam Services.\n\nService is billed on a month-to-month basis and can be cancelled at any time. If cancelled, your service will remain active until the end of the payment period. If you have rented a Starlink Kit, you must return your equipment in good condition within 30 days of Service cancellation or you will be charged the full price of the kit, as described on the online order page. Starlink will issue you a return shipping label to allow you to return the Kit. [Follow instructions in Starlink’s Return Policy for returning rented Kits in the Starlink Customer Portal].\n\nFor additional questions, please see the Starlink Terms of Service.\n\n\n",
+  "LCL_SUP-1461-32685-20.existing": "Los clientes en mercados seleccionados pueden alquilar Starlink por un precio de activación único y un precio de alquiler mensual de equipos. Consulte la página de pedidos en línea para obtener más detalles de precios por país. La modalidad de alquiler ofrece una opción flexible para comenzar a usar el Internet de Starlink para clientes en países seleccionados. Actualmente, esta oferta solo está disponible en el Reino Unido. Los kits de Starlink solo se pueden alquilar para el servicio residencial fijo y no están disponibles para los servicios empresariales, marítimos, móviles o itinerantes.\n\nEl servicio se factura mes a mes y puede cancelarse en cualquier momento. Si lo cancela, el servicio permanecerá activo hasta el final del período de pago. Si ha alquilado un kit de Starlink, debe devolver el equipo en buenas condiciones en un plazo de 30 días desde la cancelación del servicio o se le cobrará el precio completo del kit, tal como se describe en la página de pedidos en línea. Starlink le emitirá una etiqueta de envío de devolución para que pueda devolver el kit. [Siga las instrucciones de la política de devolución de Starlink para devolver los kits alquilados en el Portal del cliente de Starlink].\n\nSi tiene preguntas adicionales, consulte los Términos de servicio de Starlink.\n\n\n",
+  "LCL_SUP-1461-32685-20": "",
+
+  "PRD_INVT-1155-52835-3.comment": "<h3 class=\"banner\"> Now Offering Hardware Rentals</h3> \t</p> Rent Starlink hardware for €15/mo or purchase for <span class=\"g-strikethrough\">€450</span> €300, monthly service for €80/mo. High-speed internet from space available throughout Germany.",
+  "PRD_INVT-1155-52835-3": "",
+
+  "PRD_INVT-1224-12084-92.comment": "Global maritime coverage with up to 220 Mbps download while at sea. Starting at {{ subscriptionPrice }}/mo with a one-time hardware cost of {{ kitPrice }}.<p><a href=\"https://starlink.typeform.com/to/mLiTd6pK\" target=\"_blank\" rel=\"noopener noreferrer\">Schedule a Sales Consultation</a>",
+  "PRD_INVT-1224-12084-92.existing": "Cobertura marítima global con hasta 220 Mbps de descarga en alta mar. A partir de {{subscriptionPrice }}/mes con un costo único de equipo de {{ kitPrice }}.",
+  "PRD_INVT-1224-12084-92": "",
+
+  "LCL_INVT-1173-91307-89.comment": "Starlink is now offering hardware rentals throughout France. \t<Details><summary><u>Learn More About Starlink Rentals</u></summary><ul> \t<li> Rent Starlink hardware for a one-time €50 activation and €15/mo or purchase for <span class=\"g-strikethrough\">€450</span> €300. Starlink service is €50/mo.</li> \t<li> Try Starlink for 30 days and if not satisfied, return the hardware for a full refund of your €50 activation, or <span class=\"g-strikethrough\">€450</span> €300 if purchased. </li> \t<li> There are no long-term contracts, both hardware rental and Starlink service are charged month-to-month.</li> \t<li>Rental customers cannot transfer their hardware to a different Starlink account.</li> \t<li> You may cancel your Starlink service at any time. If cancelled, your service will remain active until the end of the payment period. If you have rented a Starlink Kit, you must return your equipment in good condition within 30 days of service cancellation or you will be charged the full price of the kit.</li> <li>To learn more about Starlink rentals, <a href=\"https://support.starlink.com/?topic=ea2cca85-c95d-595b-06e6-4882ebe915df\"target=\\\"_blank\\\"> Read our FAQ page</a></li> ",
+  "LCL_INVT-1173-91307-89.existing": "<b>Starlink está actualmente disponible en su área. </b> <P> Los clientes de su región suelen tener velocidades de descarga de entre 50 y 200 Mbps. Sin contratos, prueba de 30 días. Los tiempos de envío se calculan actualmente en 1 a 2 semanas desde el pedido.</p>",
+  "LCL_INVT-1173-91307-89": "",
+
+  "PRD_INVT-1082-86416-4.comment": "High-speed, low-latency broadband internet to rural and remote businesses across the globe. Starting at {{ subscriptionPrice }}/mo with a one-time hardware cost of {{ kitPrice }}.",
+  "PRD_INVT-1082-86416-4": "",
+
+  "LCL_INVT-1000-39594-88.comment": "<a href=\"https://starlink.typeform.com/to/mLiTd6pK\" target=\"_blank\" rel=\"noopener noreferrer\">Request a Sales Consultation</a><p>Starlink Maritime is immediately available for order at your address. Global coverage with speeds up to 220 Mbps download and 25 Mbps upload while at sea. Pause and un-pause service, billed in one-month increments. No contracts, 30-day trial, delivery in 1-2 weeks. <Details><summary><u>Learn More about Starlink Maritime</u></summary><ul><li>Includes <a href=\"https://www.starlink.com/legal/documents/DOC-1134-82708-70\" target=\"_blank\" rel=\"noopener noreferrer\">Priority Access</a>, which means faster speeds (up to 220 Mbps download and 25 Mbps upload while at sea) and top network priority. Amount of Priority Access data depends on your Service Plan</li> <li> Hardware includes the <a href=\"https://www.starlink.com/specifications?spec=3\" target=\"_blank\" rel=\"noopener noreferrer\">Flat High Performance Starlink</a>, and a <a href=\"https://api.starlink.com/public-files/WedgeMountGuide_MobileHP_English.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Wedge Mount</a> for installation </li><li> Global maritime coverage with availability in the vast majority of the Earth’s oceans and seas. Read more <a href=\"https://support.starlink.com/?topic=9eb841b3-2e43-a6fb-ecc7-ea58fb5600b5\" target=\"_blank\" rel=\"noopener noreferrer\">here</a> </li><li>Dedicated priority support</li> <li>Dashboard for remote monitoring & network management</li> <li>Unlimited service locations. Order your first Starlink on this page; once complete, you can add locations on your account portal.</li></ul></details><br><a href=\"https://starlink.typeform.com/to/DtyYJvZQ\" target=\"_blank\" rel=\"noopener noreferrer\">Ready to order > 10 sites today? Submit your order details </a>",
+  "LCL_INVT-1000-39594-88.existing": "Starlink Marítimo está disponible de inmediato para realizar pedidos en su dirección. Cobertura mundial  con velocidades de hasta 220 Mbps de descarga en alta mar. Servicio de pausa y reanudación, facturado en incrementos de un mes. Sin contratos, 30 días de prueba, entrega en 1-2 semanas.<Details><summary><u>Más información sobre Starlink Marítimo</u></summary><ul><li>Incluye <a href=\"https://www.starlink.com/legal/documents/DOC- 1134-82708-70\" target=\"_blank\" rel=\"noopener noreferrer\">Acceso Prioritario</a>, lo que significa velocidades más rápidas (hasta 220 Mbps de descarga y 25 Mbps de carga en el mar) y máxima prioridad de red. La cantidad de datos de Acceso Prioritario depende de su Plan de Servicio.</li> <li> El equipo incluye el <a href=\"https://www.starlink.com/specifications?spec=3\" target=\"_blank\" rel=\"noopener noreferrer\">Starlink Plano de Alto Rendimiento </a> y un <a href=\"https://api.starlink.com/public-files/WedgeMountGuide_MobileHP_English.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Wedge Mount</a> para instalación </li><li> Cobertura marítima global con disponibilidad en la gran mayoría de los océanos y mares de la Tierra. Lea más <a href=\"https://support.starlink.com/?topic=9eb841b3-2e43-a6fb-ecc7-ea58fb5600b5\" target=\"_blank\" rel=\"noopener noreferrer\">aquí</a> </li <li>Soporte prioritario dedicado</li> <li>Tablero para monitoreo remoto y administración de red</li> <li>Ubicaciones de servicio ilimitadas. Solicite su primer Starlink en esta página; una vez completado,  podrá añadir ubicaciones en el portal de su cuenta.",
+  "LCL_INVT-1000-39594-88": "",
+
+  "LCL_PRD-2476-60224-99.comment": "Starlink Aviation Router (Block 2)",
+  "LCL_PRD-2476-60224-99": "",
+
+  "LCL_PRD-2477-32942-6.comment": "Starlink Aviation router in block 2 configuration.",
+  "LCL_PRD-2477-32942-6": "",
+
+  "LCL_PRD-2478-98959-27.comment": "Starlink Aviation router in block 2 configuration.",
+  "LCL_PRD-2478-98959-27": "",
+
+  "LCL_PRD-2481-87154-6.comment": "Starlink Aviation Router (Block 2)",
+  "LCL_PRD-2481-87154-6": "",
+
+  "LCL_PRD-2482-76520-2.comment": "Starlink Aviation router in block 2 configuration.",
+  "LCL_PRD-2482-76520-2": "",
+
+  "LCL_PRD-2483-81534-4.comment": "Starlink Aviation router in block 2 configuration.",
+  "LCL_PRD-2483-81534-4": "",
+
+  "LCL_PRD-2486-64082-6.comment": "Starlink Aviation Power Supply (Block 2)",
+  "LCL_PRD-2486-64082-6": "",
+
+  "LCL_PRD-2487-58559-19.comment": "Block 2 power supply for starlink aviation. ",
+  "LCL_PRD-2487-58559-19": "",
+
+  "LCL_PRD-2491-12371-96.comment": "Starlink Aviation Power Supply (Block 2)",
+  "LCL_PRD-2491-12371-96": "",
+
+  "LCL_PRD-2492-34207-99.comment": "Block 2 power supply for starlink aviation. ",
+  "LCL_PRD-2492-34207-99": "",
+
+  "LCL_PRD-2496-19611-5.comment": "Starlink Aviation Large Aeroterminal Kit",
+  "LCL_PRD-2496-19611-5": "",
+
+  "LCL_PRD-2497-23981-11.comment": "Large aeroterminal kit for Starlink Aviation ",
+  "LCL_PRD-2497-23981-11": "",
+
+  "LCL_INVT_SIGNUP_TOP_AT.comment": "Starlink is now offering hardware rentals throughout Austria. \t<Details><summary><u>Learn More About Starlink Rentals</u></summary><ul> \t<li> Rent Starlink hardware for a one-time €50 activation and €15/mo or purchase for <span class=\"g-strikethrough\">€450</span> €300. Starlink service is €85/mo.</li> \t<li> Try Starlink for 30 days and if not satisfied, return the hardware for a full refund of your €50 activation, or <span class=\"g-strikethrough\">€450</span> €300 if purchased. </li> \t<li> There are no long-term contracts, both hardware rental and Starlink service are charged month-to-month.</li> \t<li>Rental customers cannot transfer their hardware to a different Starlink account.</li> \t<li> You may cancel your Starlink service at any time. If cancelled, your service will remain active until the end of the payment period. If you have rented a Starlink Kit, you must return your equipment in good condition within 30 days of service cancellation or you will be charged the full price of the kit.</li> <li>To learn more about Starlink rentals, <a href=\"https://support.starlink.com/?topic=ea2cca85-c95d-595b-06e6-4882ebe915df\"target=\\\"_blank\\\"> Read our FAQ page</a></li>",
+  "LCL_INVT_SIGNUP_TOP_AT": "",
+
+  "LCL_INVT_SIGNUP_TOP_CH.comment": "Starlink is now offering hardware rentals throughout Switzerland. \t<Details><summary><u>Learn More About Starlink Rentals</u></summary><ul> \t<li> Rent Starlink hardware for a one-time CHF 50 activation and CHF 15/mo or purchase for <span class=\"g-strikethrough\">CHF 450</span> CHF 300. Starlink service is CHF 94/mo.</li> \t<li> Try Starlink for 30 days and if not satisfied, return the hardware for a full refund of your CHF 50 activation, or <span class=\"g-strikethrough\">CHF 450</span> CHF 300 if purchased. </li> \t<li> There are no long-term contracts, both hardware rental and Starlink service are charged month-to-month.</li> \t<li>Rental customers cannot transfer their hardware to a different Starlink account.</li> \t<li> You may cancel your Starlink service at any time. If cancelled, your service will remain active until the end of the payment period. If you have rented a Starlink Kit, you must return your equipment in good condition within 30 days of service cancellation or you will be charged the full price of the kit.</li> <li>To learn more about Starlink rentals, <a href=\"https://support.starlink.com/?topic=ea2cca85-c95d-595b-06e6-4882ebe915df\"target=\\\"_blank\\\"> Read our FAQ page</a></li>",
+  "LCL_INVT_SIGNUP_TOP_CH.existing": "Por tiempo limitado en Suiza, pruebe Starlink durante 30 días por solo 1 € por adelantado. El saldo restante de 593 CHF se cargará automáticamente 30 días después de la recepción, a menos que cancele el servicio e inicie la devolución de un kit en buen estado.<br>¿No está comprando hoy? <a href=\"https://starlink.typeform.com/to/sHbB8eZD\"target=\"_blank\" rel=\"noopener noreferrer\">Proporcione comentarios aquí</a>",
+  "LCL_INVT_SIGNUP_TOP_CH": "",
+
+  "LCL_INVT_SIGNUP_TOP_BE.comment": "Starlink is now offering hardware rentals throughout Belgium. \t<Details><summary><u>Learn More About Starlink Rentals</u></summary><ul> \t<li> Rent Starlink hardware for a one-time 50 € activation and 15 €/mo or purchase for <span class=\"g-strikethrough\">450 €</span> 300 €. Starlink service is €80/mo.</li> \t<li> Try Starlink for 30 days and if not satisfied, return the hardware for a full refund of your 50 € activation, or 300 € if purchased. </li> \t<li> There are no long-term contracts, both hardware rental and Starlink service are charged month-to-month.</li> \t<li>Rental customers cannot transfer their hardware to a different Starlink account.</li> \t<li> You may cancel your Starlink service at any time. If cancelled, your service will remain active until the end of the payment period. If you have rented a Starlink Kit, you must return your equipment in good condition within 30 days of service cancellation or you will be charged the full price of the kit.</li> <li>To learn more about Starlink rentals, <a href=\"https://support.starlink.com/?topic=ea2cca85-c95d-595b-06e6-4882ebe915df\"target=\\\"_blank\\\"> Read our FAQ page</a></li>",
+  "LCL_INVT_SIGNUP_TOP_BE": "",
+
+  "LCL_INVT_SIGNUP_TOP_IT.comment": "Starlink is now offering hardware rentals throughout Italy. \t<Details><summary><u>Learn More About Starlink Rentals</u></summary><ul> \t<li> Rent Starlink hardware for a one-time €50 activation and €15/mo or purchase for <span class=\"g-strikethrough\">€450</span> €300. Starlink service is €50/mo.</li> \t<li> Try Starlink for 30 days and if not satisfied, return the hardware for a full refund of your €50 activation, or <span class=\"g-strikethrough\">€450</span> €300 if purchased. </li> \t<li> There are no long-term contracts, both hardware rental and Starlink service are charged month-to-month.</li> \t<li>Rental customers cannot transfer their hardware to a different Starlink account.</li> \t<li> You may cancel your Starlink service at any time. If cancelled, your service will remain active until the end of the payment period. If you have rented a Starlink Kit, you must return your equipment in good condition within 30 days of service cancellation or you will be charged the full price of the kit.</li> <li>To learn more about Starlink rentals, <a href=\"https://support.starlink.com/?topic=ea2cca85-c95d-595b-06e6-4882ebe915df\"target=\\\"_blank\\\"> Read our FAQ page</a></li> ",
+  "LCL_INVT_SIGNUP_TOP_IT.existing": "¡Por tiempo limitado en Italia, pruebe Starlink durante 30 días por solo 1 € por adelantado! Los usuarios de Italia suelen tener velocidades de descarga entre 100 y 200 Mbps, velocidades de carga entre 10 y 40 Mbps y disfrutar de un uso ilimitado de los datos. Su kit de Starlink incluye todo lo que necesita para conectarse y llegará en las próximas semanas. Corresponde al pago por adelantado de 1 € del hardware. Treinta días después de haber recibido los equipos se le cargará automáticamente el saldo restante de 409 €, a menos que cancele el servicio e inicie la devolución de un kit en buen estado",
+  "LCL_INVT_SIGNUP_TOP_IT": ""
+}
