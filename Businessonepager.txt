@@ -1,0 +1,72 @@
+Created by Cole Jones, last modified by Marty Imber on Mar 31, 2023
+What is Starlink Business & Maritime?
+
+What is Starlink? Starlink provides high-speed, low-latency internet to almost any location across the globe.
+Starlink Business and Maritime users can expect download speeds of up to 220 Mbps, upload up to 25 Mbps and latency of 25-50 ms.
+What is Starlink Business? Starlink Business enables high throughput connectivity for fixed locations: offices of up to 20 users, storefronts, and demanding workloads across the globe.
+What is Starlink Maritime? Starlink Maritime enables connectivity for users looking for portable, in-motion, use on the ocean (international and territorial waters), anywhere with active coverage across the world. Users can pause or un-pause at anytime. 
+Pause can be initiated also within 14 days after shipping, before your first monthly service bill
+Can also be used for in-motion land use - unlimited Basic Access data on inland coverage (including lakes / rivers / ports) after Priority Access data is used
+Which Starlink is best for me?
+
+How much does starlink cost? Starlink Residential costs $600 for the hardware and $120/mo for service in most locations in the US. Price is adjusted per country to account for local market conditions and taxes. 
+
+
+
+Both Starlink Business and Starlink Maritime include:
+
+Priority Access, which includes faster speeds & top network priority. The amount of Priority Access data depends on your Service Plan
+Publicly IP address. Starlink's public IPv4 is dynamically DHCP assigned, but maintains virtually all of the same functionality as a true static IP.
+Dedicated priority support. Starlink Business support is available 24/7
+Dashboard for remote monitoring & network management
+Unlimited service locations. Order your first Starlink on this page; once complete, you can add locations on your account portal
+
+
+What hardware is included? (MI: restructured and added Flat HP definition)
+
+Business: includes the High Performance Starlink, which is best for fixed use.
+High Performance: Designed for power user, business, and enterprise applications. It allows better speeds at high temperatures, can connect to more satellites, and is more resilient to extreme environments.
+Maritime: includes the Flat High Performance Starlink and a Wedge Mount for installation, which is best for mobility applications
+Flat High Performance: Designed for mobility applications and challenging environments. With a wide field of view and enhanced GPS capabilities, it can connect to more satellites, allowing for consistent connectivity while on the go. The hardware is designed for a permanent installation and is more resilient to extreme environments. Currently the only designated dish for in-motion use in approved countries.
+
+
+How do billing and payments work?
+
+As a Starlink customer, you will have a billing day of the month. The billing day of the month will be the day the invoice is generated and emailed to you. By default, payments are due 7 days after invoice generation. The billing day of the month is linked at an account level and is based off the date you activate your first subscription. After your first subscription, all active subscriptions on the account, regardless of activation date, will be billed on the billing day of the month.
+
+Currently only credit card payments are accepted.
+
+All upfront hardware payments are due immediately upon order.
+
+Note: Wire transfers available for these order sizes, based on hardware & subscription type:
+
+50 kits: $250/mo (Mobility - 50GB, Business - 1000)
+30 kits: $500/mo (Business 2000)
+20 kits: $1000/mo (Mobility - 1TB)
+15 kits: $1500/mo (Business 6000)
+5 kits: $5000/mo (Mobility - 5TB)
+
+
+How do I order more than one Starlink?
+
+Order your first Starlink by submitting your address; once complete, you can add locations on your account portal
+
+To add an additional service location to your account, you can place another Starlink order, as availability permits, by clicking + in the "Your Starlinks" section of your account, here.
+
+You can individually add Starlinks to your cart using the "+" and check out in bulk once all locations have been added. Starlink Business customers have access to an unlimited number of service locations.
+
+
+
+Are there contracts? How long does it take to arrive once I order? No contracts, 1-2 week delivery times, 30 day trial
+
+With Starlink, there are no contracts. You can cancel at anytime
+Orders are typically delivered within 1-2 weeks
+You can try Starlink for 30 days with a guaranteed refund of the hardware costs if not satisfied.
+
+
+Maritime: Do you have coverage in this area? What countries can I ship to? We have coverage across international waters. For territorial waters, you will have to check with your local authorities. All markets we are live for Maritime here are confirmed to use in territorial waters & can be shipped to.
+
+
+
+Does starlink provide bulk order discounts? No.
+
