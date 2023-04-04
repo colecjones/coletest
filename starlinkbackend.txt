@@ -4935,47 +4935,11 @@ Virgin Cruise Subscription (600 Mbps)
 <h2 class="fddbold16">Starlink currently available in your area!</h2>  <p>Sign up today and receive a 30% discount on the hardware. This limited time offer will expire on April 30th 2023</br>Customers in your region typically see download speeds around 100 Mbps. No contracts, 30-day trial.  </br>Shipping times are currently estimated to be 1-2 weeks.</p>
 Virgin Cruise Subscription (600 Mbps)
 Norwegian Cruise Subscription (400 Mbps)
-Backhaul Fee
-Backhaul non-recurring charges
-Backhaul non-recurring charges
-Backhaul Fee
-Backhaul non-recurring charges
-Backhaul non-recurring charges
-Backhaul Private Peering
- 
-Backhaul Private Peering charge
-Backhaul Private Peering charge
-Backhaul Private Peering
-Backhaul Private Peering charge
-Backhaul Private Peering charge
-Backhaul Priority Data 1TB
+
+Priority Data 1TB
 "<h2 class=""fddbold16"">Starlink is currently available in your area!</h2 </br><h2 class=""fddbold16"">Limited time offer<h2><span class=""sub-banner g-white g-strikethrough"">Â£460</span><span class=""sub-banner""> Â£300 </span><span class=""fddbold16"">FOR STANDARD HARDWARE</span></h2><p>No contracts, 30-day trial.<p>Customers in your region are typically see download speeds around 100 Mbps. Shipping times are currently estimated to be 2-5 days.</p> Starlink is now offering hardware rentals throughout the United Kingdom. <Details><summary><u>Learn More About Starlink Rentals</u></summary><ul> <li> Rent Starlink hardware for a one-time Â£99 activation and Â£15/mo or purchase for <span class=""g-strikethrough"">Â£460</span> Â£300. Starlink service is Â£75/mo.</li>  	<li> Try Starlink for 30 days and if not satisfied, return the hardware for a full refund of your Â£99 activation, or <span class=""g-strikethrough"">Â£460</span> Â£300 if purchased. </li> 	<li> There are no long-term contracts, both hardware rental and Starlink service are charged month-to-month.</li>  	<li>Rental customers cannot transfer their hardware to a different Starlink account.</li>  	<li> You may cancel your Starlink service at any time. If cancelled, your service will remain active until the end of the payment period. If you have rented a Starlink Kit, you must return your equipment in good condition within 30 days of service cancellation or you will be charged the full price of the kit.</li>  	<li>To learn more about Starlink rentals, <a href=""https://support.starlink.com/?topic=ea2cca85-c95d-595b-06e6-4882ebe915df""target=\""_blank\""> Read our FAQ page</a></li>"
 Maritime - 1TB
-Ka Community Gateway Service
-Ka Community Gateway Gbps Service
- 
-Ka Community Gateway Gbps Service
- 
-Ka gateway deployment kit x terminals
-Ka gateway deployment kit x terminals
-Gateway Deployment Kit
-Crisis Response Subscription
-Crisis Response Subscriptions
-Crisis Response Subscriptions
-Crisis Response Subscription
-Crisis Response Subscription
-Crisis Response Subscriptions
-Crisis Response Subscriptions
-Crisis Response Subscriptions
- 
-Crisis Response Subscriptions
- 
- 
- 
-Account Management Fee
-Account Management Fee for Business
-Account Management Fee for Business
- 
+
  
 "Starlink can be purchased on our website [Starlink.com](https://www.starlink.com) or from a Starlink authorized commercial retailer or reseller.
 Authorized commercial retailers and resellers below:
@@ -5021,14 +4985,4 @@ We are unable to activate service for a Starlink that has been purchased from an
 
 * [How to activate my Starlink from an authorized retailer or third party?](https://support.starlink.com/?topic=9c053dcc-c9ba-f64b-c413-af6afc3d6e13)
 * [What is a Starlink Identifier? ](https://support.starlink.com/?topic=2802431a-135f-0671-4c1b-4cedb65b291a)"
-Starlink Aviation - Medium Aeroterminal
-Starlink Aviation medium Aeroterminal assembly. PN: 06651000-530
-Starlink Aviation medium Aeroterminal assembly. PN: 06651000-530
-Starlink Aviation - Medium Aeroterminal
-Starlink Aviation medium Aeroterminal assembly. PN: 06651000-530
-ftzhdhdzh
-Starlink Aviation medium Aeroterminal assembly. PN: 06651000-530
-Starlink Aviation - XL Lug, Wide Stance Tray
-Aviation tray in XL lug, wide stance configuration. PN 06652000-555. 
-Aviation tray in XL lug, wide stance configuration. PN 06652000-555. 
-sdvsdvsv
+
